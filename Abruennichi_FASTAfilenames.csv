@@ -1,0 +1,365 @@
+FASTA file base name,Pop #,Pop name,Country,Group,Assignment to cluster
+E18-Ik-12-photo,39,Ikla,Estonia,Estonia,northeastern
+E18-Ik-14-photo,39,Ikla,Estonia,Estonia,northeastern
+E18-Ik-18-photo,39,Ikla,Estonia,Estonia,northeastern
+E18-Ik-19-photo,39,Ikla,Estonia,Estonia,northeastern
+E18-Ik-1-photo,39,Ikla,Estonia,Estonia,northeastern
+E18-Ik-2-photo,39,Ikla,Estonia,Estonia,northeastern
+E18-Ik-4-photo,39,Ikla,Estonia,Estonia,northeastern
+E18-Ik-5-photo,39,Ikla,Estonia,Estonia,northeastern
+E18-Ik-7-photo,39,Ikla,Estonia,Estonia,northeastern
+E18-Ik-8-photo,39,Ikla,Estonia,Estonia,northeastern
+E18-Pa-12-photo,41,Pärnu,Estonia,Estonia,northeastern
+E18-Pa-13-photo,41,Pärnu,Estonia,Estonia,northeastern
+E18-Pa-14-photo,41,Pärnu,Estonia,Estonia,northeastern
+E18-Pa-15-photo,41,Pärnu,Estonia,Estonia,northeastern
+E18-Pa-16-photo,41,Pärnu,Estonia,Estonia,northeastern
+E18-Pa-1-photo,41,Pärnu,Estonia,Estonia,northeastern
+E18-Pa-3-photo,41,Pärnu,Estonia,Estonia,northeastern
+E18-Pa-4-photo,41,Pärnu,Estonia,Estonia,northeastern
+E18-Pa-5-photo,41,Pärnu,Estonia,Estonia,northeastern
+E18-Pa-6-photo,41,Pärnu,Estonia,Estonia,northeastern
+E18-PJ-10,40,Pulgoja,Estonia,Estonia,northeastern
+E18-PJ-13,40,Pulgoja,Estonia,Estonia,northeastern
+E18-PJ-14,40,Pulgoja,Estonia,Estonia,northeastern
+E18-PJ-16,40,Pulgoja,Estonia,Estonia,northeastern
+E18-PJ-18,40,Pulgoja,Estonia,Estonia,northeastern
+E18-PJ-3,40,Pulgoja,Estonia,Estonia,northeastern
+E18-PJ-4,40,Pulgoja,Estonia,Estonia,northeastern
+E18-PJ-6,40,Pulgoja,Estonia,Estonia,northeastern
+E18-PJ-7,40,Pulgoja,Estonia,Estonia,northeastern
+E18-PJ-9,40,Pulgoja,Estonia,Estonia,northeastern
+FrLrLA01,6,Lyon,France,France,southwestern
+FrLrLA03,6,Lyon,France,France,southwestern
+FrLrLA04,6,Lyon,France,France,southwestern
+FrLrLA05,6,Lyon,France,France,southwestern
+FrLrLA06,6,Lyon,France,France,southwestern
+FrLrLA09,6,Lyon,France,France,southwestern
+FrLrLA10,6,Lyon,France,France,southwestern
+FrLrLA12,6,Lyon,France,France,southwestern
+FrLrLA13,6,Lyon,France,France,southwestern
+FrLrLA15,6,Lyon,France,France,southwestern
+FrLrNA01,5,Nimes,France,France,southwestern
+FrLrNA03,5,Nimes,France,France,southwestern
+FrLrNA04,5,Nimes,France,France,southwestern
+FrLrNA05,5,Nimes,France,France,southwestern
+FrLrNA07,5,Nimes,France,France,southwestern
+FrLrNA08,5,Nimes,France,France,southwestern
+FrLrNA09,5,Nimes,France,France,southwestern
+FrLrNA10,5,Nimes,France,France,southwestern
+FrLrNA11,5,Nimes,France,France,southwestern
+FrLrNA14,5,Nimes,France,France,southwestern
+G18-AR-1,12,Au am Rhein,Germany,SW Germany,southwestern
+G18-AR-10,12,Au am Rhein,Germany,SW Germany,southwestern
+G18-AR-2,12,Au am Rhein,Germany,SW Germany,southwestern
+G18-AR-3,12,Au am Rhein,Germany,SW Germany,southwestern
+G18-AR-4,12,Au am Rhein,Germany,SW Germany,southwestern
+G18-AR-5,12,Au am Rhein,Germany,SW Germany,southwestern
+G18-AR-6,12,Au am Rhein,Germany,SW Germany,southwestern
+G18-AR-7,12,Au am Rhein,Germany,SW Germany,southwestern
+G18-AR-8,12,Au am Rhein,Germany,SW Germany,southwestern
+G18-AR-9,12,Au am Rhein,Germany,SW Germany,southwestern
+G18-BB-1,23,Barby,Germany,NE Germany,northeastern
+G18-BB-2,23,Barby,Germany,NE Germany,northeastern
+G18-BB-3,23,Barby,Germany,NE Germany,northeastern
+G18-BD-11,15,Büdingen,Germany,SW Germany,southwestern
+G18-BD-12,15,Büdingen,Germany,SW Germany,southwestern
+G18-BD-14,15,Büdingen,Germany,SW Germany,southwestern
+G18-BD-15,15,Büdingen,Germany,SW Germany,southwestern
+G18-BD-19,15,Büdingen,Germany,SW Germany,southwestern
+G18-BD-3,15,Büdingen,Germany,SW Germany,southwestern
+G18-BD-4,15,Büdingen,Germany,SW Germany,southwestern
+G18-BD-5,15,Büdingen,Germany,SW Germany,southwestern
+G18-BD-7,15,Büdingen,Germany,SW Germany,southwestern
+G18-BD-9,15,Büdingen,Germany,SW Germany,southwestern
+G18-BH-10,17,Bad Hersfeld,Germany,SW Germany,southwestern
+G18-BH-12,17,Bad Hersfeld,Germany,SW Germany,southwestern
+G18-BH-17,17,Bad Hersfeld,Germany,SW Germany,southwestern
+G18-BH-18,17,Bad Hersfeld,Germany,SW Germany,southwestern
+G18-BH-2,17,Bad Hersfeld,Germany,SW Germany,southwestern
+G18-BH-3,17,Bad Hersfeld,Germany,SW Germany,southwestern
+G18-BH-5,17,Bad Hersfeld,Germany,SW Germany,southwestern
+G18-BH-6,17,Bad Hersfeld,Germany,SW Germany,southwestern
+G18-BH-8,17,Bad Hersfeld,Germany,SW Germany,southwestern
+G18-BH-9,17,Bad Hersfeld,Germany,SW Germany,southwestern
+G18-BM-10,11,Brumath,France,France,southwestern
+G18-BM-13,11,Brumath,France,France,southwestern
+G18-BM-15,11,Brumath,France,France,southwestern
+G18-BM-16,11,Brumath,France,France,southwestern
+G18-BM-18,11,Brumath,France,France,southwestern
+G18-BM-19,11,Brumath,France,France,southwestern
+G18-BM-23,11,Brumath,France,France,southwestern
+G18-BM-26,11,Brumath,France,France,southwestern
+G18-BM-3,11,Brumath,France,France,southwestern
+G18-BM-4,11,Brumath,France,France,southwestern
+G18-BM-9,11,Brumath,France,France,southwestern
+G18-BV-1,9,Kenzingen,Germany,SW Germany,southwestern
+G18-BV-10,9,Kenzingen,Germany,SW Germany,southwestern
+G18-BV-11,9,Kenzingen,Germany,SW Germany,southwestern
+G18-BV-12,9,Kenzingen,Germany,SW Germany,southwestern
+G18-BV-3,9,Kenzingen,Germany,SW Germany,southwestern
+G18-BV-4,9,Kenzingen,Germany,SW Germany,southwestern
+G18-BV-5,9,Kenzingen,Germany,SW Germany,southwestern
+G18-BV-7,9,Kenzingen,Germany,SW Germany,southwestern
+G18-BV-8,9,Kenzingen,Germany,SW Germany,southwestern
+G18-BV-9,9,Kenzingen,Germany,SW Germany,southwestern
+G18-EN-1,18,Eisenach,Germany,SW Germany,southwestern
+G18-EN-2,18,Eisenach,Germany,SW Germany,southwestern
+G18-EN-3,18,Eisenach,Germany,SW Germany,southwestern
+G18-EN-4,18,Eisenach,Germany,SW Germany,southwestern
+G18-EN-5,18,Eisenach,Germany,SW Germany,southwestern
+G18-EN-6,18,Eisenach,Germany,SW Germany,southwestern
+G18-EN-7,18,Eisenach,Germany,SW Germany,southwestern
+G18-EN-8,18,Eisenach,Germany,SW Germany,southwestern
+G18-FO-1,10,Offenburg,Germany,SW Germany,southwestern
+G18-FO-10,10,Offenburg,Germany,SW Germany,southwestern
+G18-FO-11,10,Offenburg,Germany,SW Germany,southwestern
+G18-FO-3,10,Offenburg,Germany,SW Germany,southwestern
+G18-FO-4,10,Offenburg,Germany,SW Germany,southwestern
+G18-FO-5,10,Offenburg,Germany,SW Germany,southwestern
+G18-FO-6,10,Offenburg,Germany,SW Germany,southwestern
+G18-FO-7,10,Offenburg,Germany,SW Germany,southwestern
+G18-FO-8,10,Offenburg,Germany,SW Germany,southwestern
+G18-FO-9,10,Offenburg,Germany,SW Germany,southwestern
+G18-FP-1,21,Pegau,Germany,NE Germany,northeastern
+G18-FP-10,21,Pegau,Germany,NE Germany,northeastern
+G18-FP-11,21,Pegau,Germany,NE Germany,northeastern
+G18-FP-12,21,Pegau,Germany,NE Germany,northeastern
+G18-FP-14,21,Pegau,Germany,NE Germany,northeastern
+G18-FP-15,21,Pegau,Germany,NE Germany,northeastern
+G18-FP-19,21,Pegau,Germany,NE Germany,northeastern
+G18-FP-2,21,Pegau,Germany,NE Germany,northeastern
+G18-FP-4,21,Pegau,Germany,NE Germany,northeastern
+G18-FP-7,21,Pegau,Germany,NE Germany,northeastern
+G18-GH-1,14,Gräfenhausen,Germany,SW Germany,southwestern
+G18-GH-10,14,Gräfenhausen,Germany,SW Germany,southwestern
+G18-GH-2,14,Gräfenhausen,Germany,SW Germany,southwestern
+G18-GH-3,14,Gräfenhausen,Germany,SW Germany,southwestern
+G18-GH-4,14,Gräfenhausen,Germany,SW Germany,southwestern
+G18-GH-5,14,Gräfenhausen,Germany,SW Germany,southwestern
+G18-GH-6,14,Gräfenhausen,Germany,SW Germany,southwestern
+G18-GH-7,14,Gräfenhausen,Germany,SW Germany,southwestern
+G18-GH-8,14,Gräfenhausen,Germany,SW Germany,southwestern
+G18-GH-9,14,Gräfenhausen,Germany,SW Germany,southwestern
+G18-GS-1,19,Gierstädt,Germany,SW Germany,southwestern
+G18-GS-10,19,Gierstädt,Germany,SW Germany,southwestern
+G18-GS-11,19,Gierstädt,Germany,SW Germany,southwestern
+G18-GS-14,19,Gierstädt,Germany,SW Germany,southwestern
+G18-GS-15,19,Gierstädt,Germany,SW Germany,southwestern
+G18-GS-16,19,Gierstädt,Germany,SW Germany,southwestern
+G18-GS-2,19,Gierstädt,Germany,SW Germany,southwestern
+G18-GS-20,19,Gierstädt,Germany,SW Germany,southwestern
+G18-GS-5,19,Gierstädt,Germany,SW Germany,southwestern
+G18-GS-7,19,Gierstädt,Germany,SW Germany,southwestern
+G18-HB-10,13,Heidelberg,Germany,SW Germany,southwestern
+G18-HB-12,13,Heidelberg,Germany,SW Germany,southwestern
+G18-HB-13,13,Heidelberg,Germany,SW Germany,southwestern
+G18-HB-15,13,Heidelberg,Germany,SW Germany,southwestern
+G18-HB-17,13,Heidelberg,Germany,SW Germany,southwestern
+G18-HB-22,13,Heidelberg,Germany,SW Germany,southwestern
+G18-HB-3,13,Heidelberg,Germany,SW Germany,southwestern
+G18-HB-4,13,Heidelberg,Germany,SW Germany,southwestern
+G18-HB-6,13,Heidelberg,Germany,SW Germany,southwestern
+G18-HB-7,13,Heidelberg,Germany,SW Germany,southwestern
+G18-KB-1,20,Kelbra,Germany,NE Germany,southwestern
+G18-KB-10,20,Kelbra,Germany,NE Germany,northeastern
+G18-KB-11,20,Kelbra,Germany,NE Germany,northeastern
+G18-KB-14,20,Kelbra,Germany,NE Germany,northeastern
+G18-KB-17,20,Kelbra,Germany,NE Germany,northeastern
+G18-KB-19,20,Kelbra,Germany,NE Germany,northeastern
+G18-KB-2,20,Kelbra,Germany,NE Germany,northeastern
+G18-KB-4,20,Kelbra,Germany,NE Germany,northeastern
+G18-KB-6,20,Kelbra,Germany,NE Germany,northeastern
+G18-KB-7,20,Kelbra,Germany,NE Germany,northeastern
+G18-LB-10,30,Ludwigsburg,Germany,NE Germany,northeastern
+G18-LB-11,30,Ludwigsburg,Germany,NE Germany,northeastern
+G18-LB-13,30,Ludwigsburg,Germany,NE Germany,northeastern
+G18-LB-15,30,Ludwigsburg,Germany,NE Germany,northeastern
+G18-LB-2,30,Ludwigsburg,Germany,NE Germany,northeastern
+G18-LB-20,30,Ludwigsburg,Germany,NE Germany,northeastern
+G18-LB-3,30,Ludwigsburg,Germany,NE Germany,northeastern
+G18-LB-5,30,Ludwigsburg,Germany,NE Germany,northeastern
+G18-LB-6,30,Ludwigsburg,Germany,NE Germany,northeastern
+G18-LB-7,30,Ludwigsburg,Germany,NE Germany,northeastern
+G18-MW-1,28,Mittenwald,Germany,NE Germany,northeastern
+G18-MW-2,28,Mittenwald,Germany,NE Germany,northeastern
+G18-MW-3,28,Mittenwald,Germany,NE Germany,northeastern
+G18-MW-4,28,Mittenwald,Germany,NE Germany,northeastern
+G18-MW-5,28,Mittenwald,Germany,NE Germany,northeastern
+G18-MW-7,28,Mittenwald,Germany,NE Germany,northeastern
+G18-MW-8,28,Mittenwald,Germany,NE Germany,northeastern
+G18-RS-1,24,Rabenstein,Germany,NE Germany,northeastern
+G18-RS-11,24,Rabenstein,Germany,NE Germany,northeastern
+G18-RS-13,24,Rabenstein,Germany,NE Germany,northeastern
+G18-RS-14,24,Rabenstein,Germany,NE Germany,northeastern
+G18-RS-16,24,Rabenstein,Germany,NE Germany,northeastern
+G18-RS-18,24,Rabenstein,Germany,NE Germany,northeastern
+G18-RS-19,24,Rabenstein,Germany,NE Germany,northeastern
+G18-RS-3,24,Rabenstein,Germany,NE Germany,northeastern
+G18-RS-4,24,Rabenstein,Germany,NE Germany,northeastern
+G18-RS-8,24,Rabenstein,Germany,NE Germany,northeastern
+G18-SB-1,29,Strasburg,Germany,NE Germany,northeastern
+G18-SB-10,29,Strasburg,Germany,NE Germany,northeastern
+G18-SB-12,29,Strasburg,Germany,NE Germany,northeastern
+G18-SB-16,29,Strasburg,Germany,NE Germany,northeastern
+G18-SB-17,29,Strasburg,Germany,NE Germany,northeastern
+G18-SB-19,29,Strasburg,Germany,NE Germany,northeastern
+G18-SB-20,29,Strasburg,Germany,NE Germany,northeastern
+G18-SB-3,29,Strasburg,Germany,NE Germany,northeastern
+G18-SB-4,29,Strasburg,Germany,NE Germany,northeastern
+G18-SB-8,29,Strasburg,Germany,NE Germany,northeastern
+G18-SC-1,16,Schotten,Germany,SW Germany,southwestern
+G18-SC-10,16,Schotten,Germany,SW Germany,southwestern
+G18-SC-2,16,Schotten,Germany,SW Germany,southwestern
+G18-SC-3,16,Schotten,Germany,SW Germany,southwestern
+G18-SC-4,16,Schotten,Germany,SW Germany,southwestern
+G18-SC-5,16,Schotten,Germany,SW Germany,southwestern
+G18-SC-6,16,Schotten,Germany,SW Germany,southwestern
+G18-SC-7,16,Schotten,Germany,SW Germany,southwestern
+G18-SC-8,16,Schotten,Germany,SW Germany,southwestern
+G18-SC-9,16,Schotten,Germany,SW Germany,southwestern
+G18-SD-1,25,Schulzendorf,Germany,NE Germany,northeastern
+G18-SD-11,25,Schulzendorf,Germany,NE Germany,northeastern
+G18-SD-13,25,Schulzendorf,Germany,NE Germany,northeastern
+G18-SD-15,25,Schulzendorf,Germany,NE Germany,northeastern
+G18-SD-17,25,Schulzendorf,Germany,NE Germany,northeastern
+G18-SD-3,25,Schulzendorf,Germany,NE Germany,northeastern
+G18-SD-5,25,Schulzendorf,Germany,NE Germany,northeastern
+G18-SD-6,25,Schulzendorf,Germany,NE Germany,northeastern
+G18-SD-7,25,Schulzendorf,Germany,NE Germany,northeastern
+G18-SD-8,25,Schulzendorf,Germany,NE Germany,northeastern
+G18-TL-1,27,Templin,Germany,NE Germany,northeastern
+G18-TL-2,27,Templin,Germany,NE Germany,northeastern
+G18-TL-3,27,Templin,Germany,NE Germany,northeastern
+G18-TL-4,27,Templin,Germany,NE Germany,northeastern
+G18-UK-11,8,Umkirch,Germany,SW Germany,southwestern
+G18-UK-15,8,Umkirch,Germany,SW Germany,southwestern
+G18-UK-17,8,Umkirch,Germany,SW Germany,southwestern
+G18-UK-18,8,Umkirch,Germany,SW Germany,southwestern
+G18-UK-2,8,Umkirch,Germany,SW Germany,southwestern
+G18-UK-3,8,Umkirch,Germany,SW Germany,southwestern
+G18-UK-5,8,Umkirch,Germany,SW Germany,southwestern
+G18-UK-6,8,Umkirch,Germany,SW Germany,southwestern
+G18-UK-8,8,Umkirch,Germany,SW Germany,southwestern
+G18-UK-9,8,Umkirch,Germany,SW Germany,southwestern
+G18-WL-1,26,Wandlitz,Germany,NE Germany,northeastern
+G18-WL-10,26,Wandlitz,Germany,NE Germany,northeastern
+G18-WL-12,26,Wandlitz,Germany,NE Germany,northeastern
+G18-WL-13,26,Wandlitz,Germany,NE Germany,northeastern
+G18-WL-14,26,Wandlitz,Germany,NE Germany,northeastern
+G18-WL-2,26,Wandlitz,Germany,NE Germany,northeastern
+G18-WL-3,26,Wandlitz,Germany,NE Germany,northeastern
+G18-WL-5,26,Wandlitz,Germany,NE Germany,northeastern
+G18-WL-7,26,Wandlitz,Germany,NE Germany,northeastern
+G18-WL-9,26,Wandlitz,Germany,NE Germany,northeastern
+G18-ZS-1,22,Zeitz,Germany,NE Germany,northeastern
+G18-ZS-2,22,Zeitz,Germany,NE Germany,northeastern
+G18-ZS-3,22,Zeitz,Germany,NE Germany,northeastern
+G18-ZS-4,22,Zeitz,Germany,NE Germany,northeastern
+LtKlPA01,35,Palanga,Lithuania,Latvia and Lithuania,northeastern
+LtKlPA02,35,Palanga,Lithuania,Latvia and Lithuania,northeastern
+LtKlPA03,35,Palanga,Lithuania,Latvia and Lithuania,northeastern
+LtKlPA04,35,Palanga,Lithuania,Latvia and Lithuania,northeastern
+LtKlPA05,35,Palanga,Lithuania,Latvia and Lithuania,northeastern
+LtKlPA06,35,Palanga,Lithuania,Latvia and Lithuania,northeastern
+LtKlPA07,35,Palanga,Lithuania,Latvia and Lithuania,northeastern
+LtKlPA08,35,Palanga,Lithuania,Latvia and Lithuania,northeastern
+LtKlPA09,35,Palanga,Lithuania,Latvia and Lithuania,northeastern
+LtKlPA10,35,Palanga,Lithuania,Latvia and Lithuania,northeastern
+LvLiAC01,38,Ainaži,Latvia,Latvia and Lithuania,northeastern
+LvLiAC02,38,Ainaži,Latvia,Latvia and Lithuania,northeastern
+LvLiAC03,38,Ainaži,Latvia,Latvia and Lithuania,northeastern
+LvLiAC04,38,Ainaži,Latvia,Latvia and Lithuania,northeastern
+LvLiAC05,38,Ainaži,Latvia,Latvia and Lithuania,northeastern
+LvLiAC06,38,Ainaži,Latvia,Latvia and Lithuania,northeastern
+LvLiAC07,38,Ainaži,Latvia,Latvia and Lithuania,northeastern
+LvLiAC08,38,Ainaži,Latvia,Latvia and Lithuania,northeastern
+LvLiAC12,38,Ainaži,Latvia,Latvia and Lithuania,northeastern
+LvLiAC13,38,Ainaži,Latvia,Latvia and Lithuania,northeastern
+LvLpLA01,36,Liep?ja,Latvia,Latvia and Lithuania,northeastern
+LvLpLA02,36,Liep?ja,Latvia,Latvia and Lithuania,northeastern
+LvLpLA03,36,Liep?ja,Latvia,Latvia and Lithuania,northeastern
+LvLpLA08,36,Liep?ja,Latvia,Latvia and Lithuania,northeastern
+LvLpLA10,36,Liep?ja,Latvia,Latvia and Lithuania,northeastern
+LvLpLA12,36,Liep?ja,Latvia,Latvia and Lithuania,northeastern
+LvLpLA13,36,Liep?ja,Latvia,Latvia and Lithuania,northeastern
+LvLpLA14,36,Liep?ja,Latvia,Latvia and Lithuania,northeastern
+LvLpLA15,36,Liep?ja,Latvia,Latvia and Lithuania,northeastern
+LvLpLA16,36,Liep?ja,Latvia,Latvia and Lithuania,northeastern
+LvSaSA01,37,Salaspils,Latvia,Latvia and Lithuania,northeastern
+LvSaSA02,37,Salaspils,Latvia,Latvia and Lithuania,northeastern
+LvSaSA03,37,Salaspils,Latvia,Latvia and Lithuania,northeastern
+LvSaSA04,37,Salaspils,Latvia,Latvia and Lithuania,northeastern
+LvSaSA06,37,Salaspils,Latvia,Latvia and Lithuania,northeastern
+LvSaSA07,37,Salaspils,Latvia,Latvia and Lithuania,northeastern
+LvSaSA08,37,Salaspils,Latvia,Latvia and Lithuania,northeastern
+LvSaSA09,37,Salaspils,Latvia,Latvia and Lithuania,northeastern
+LvSaSA10,37,Salaspils,Latvia,Latvia and Lithuania,northeastern
+LvSaSA11,37,Salaspils,Latvia,Latvia and Lithuania,northeastern
+PlGPPA01,33,Pozna?,Poland,Poland,northeastern
+PlGPPA03,33,Pozna?,Poland,Poland,northeastern
+PlGPPA04,33,Pozna?,Poland,Poland,northeastern
+PlGPPA05,33,Pozna?,Poland,Poland,northeastern
+PlGPPA06,33,Pozna?,Poland,Poland,northeastern
+PlGPPA08,33,Pozna?,Poland,Poland,northeastern
+PlGPPA09,33,Pozna?,Poland,Poland,northeastern
+PlGPPA10,33,Pozna?,Poland,Poland,northeastern
+PlGPPA11,33,Pozna?,Poland,Poland,northeastern
+PlGPPA12,33,Pozna?,Poland,Poland,northeastern
+PlLuGA01,32,Grodziszcze,Poland,Poland,northeastern
+PlLuGA02,32,Grodziszcze,Poland,Poland,northeastern
+PlLuGA03,32,Grodziszcze,Poland,Poland,northeastern
+PlLuGA04,32,Grodziszcze,Poland,Poland,northeastern
+PlLuGA05,32,Grodziszcze,Poland,Poland,northeastern
+PlLuGA06,32,Grodziszcze,Poland,Poland,northeastern
+PlLuGA07,32,Grodziszcze,Poland,Poland,northeastern
+PlPoLA01,34,L?bork,Poland,Poland,northeastern
+PlPoLA02,34,L?bork,Poland,Poland,northeastern
+PlPoLA03,34,L?bork,Poland,Poland,northeastern
+PlPoLA04,34,L?bork,Poland,Poland,northeastern
+PlPoLA05,34,L?bork,Poland,Poland,northeastern
+PlPoLA06,34,L?bork,Poland,Poland,northeastern
+PlPoLA07,34,L?bork,Poland,Poland,northeastern
+PlPoLA08,34,L?bork,Poland,Poland,northeastern
+PlPoLA09,34,L?bork,Poland,Poland,northeastern
+PlPoLA10,34,L?bork,Poland,Poland,northeastern
+SF18-BN-1,1,Belflou,France,France,southwestern
+SF18-BN-12,1,Belflou,France,France,southwestern
+SF18-BN-14,1,Belflou,France,France,southwestern
+SF18-BN-18,1,Belflou,France,France,southwestern
+SF18-BN-3,1,Belflou,France,France,southwestern
+SF18-BN-4,1,Belflou,France,France,southwestern
+SF18-BN-5,1,Belflou,France,France,southwestern
+SF18-BN-7,1,Belflou,France,France,southwestern
+SF18-BN-8,1,Belflou,France,France,southwestern
+SF18-BN-9,1,Belflou,France,France,southwestern
+SF18-CA-10,2,Casties,France,France,southwestern
+SF18-CA-12,2,Casties,France,France,southwestern
+SF18-CA-13,2,Casties,France,France,southwestern
+SF18-CA-14,2,Casties,France,France,southwestern
+SF18-CA-17,2,Casties,France,France,southwestern
+SF18-CA-18,2,Casties,France,France,southwestern
+SF18-CA-4,2,Casties,France,France,southwestern
+SF18-CA-5,2,Casties,France,France,southwestern
+SF18-CA-6,2,Casties,France,France,southwestern
+SF18-CA-7,2,Casties,France,France,southwestern
+SF18-MiO-12,3,Mireval,France,France,southwestern
+SF18-MiO-18,3,Mireval,France,France,southwestern
+SF18-MiO-27,3,Mireval,France,France,southwestern
+SF18-MiO-40,3,Mireval,France,France,southwestern
+SF18-MiO-5,3,Mireval,France,France,southwestern
+SF18-MiW-17,3,Mireval,France,France,southwestern
+SF18-MiW-23,3,Mireval,France,France,southwestern
+SF18-MiW-39,3,Mireval,France,France,southwestern
+SF18-MiW-42,3,Mireval,France,France,southwestern
+SF18-MiW-8,3,Mireval,France,France,southwestern
+SF18-PE-12-photo,4,Perry,France,France,southwestern
+SF18-PE-15-photo,4,Perry,France,France,southwestern
+SF18-PE-17-photo,4,Perry,France,France,southwestern
+SF18-PE-1-photo,4,Perry,France,France,southwestern
+SF18-PE-2-photo,4,Perry,France,France,southwestern
+SF18-PE-3-photo,4,Perry,France,France,southwestern
+SF18-PE-4-photo,4,Perry,France,France,southwestern
+SF18-PE-6-photo,4,Perry,France,France,southwestern
+SF18-PE-7-photo,4,Perry,France,France,southwestern
+SF18-PE-8-photo,4,Perry,France,France,southwestern
