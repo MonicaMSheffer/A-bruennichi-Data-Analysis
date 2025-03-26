@@ -1,0 +1,220 @@
+Winter.treatment,Origin,Population,MotherID,Photo,Cocoon_number,Oviposition_date,Planned.opening.Date,Planned.opening.time,LT50.Temp,Opened.by,Actual.opening.date,Actual.opening.time,test_live,test_dead,test_total,test_ratio,control_live,control_dead,control_total,control_ratio,Notes,round,Mother_LegLength_um,MotherMeasuredBy,MotherLegLengthNotes
+France,Estonia,Ikla,E18-Ikla-2,n,1,08-08-18,08-04-19,0.375,-10,L. Zander,08-04-19,0.375,10,0,10,1,6,0,6,1,only 6 in control,post,NA,NA,loose legs in vial
+France,Estonia,Ikla,E18-Ikla-3,n,1,18-08-18,18-04-19,0.375,-26,J. Balk,18-04-19,0.375,3,7,10,0.3,10,0,10,1,NA,post,5784.04,M. Sheffer,NA
+France,Estonia,Ikla,E18-Ikla-3,n,2,03-09-18,03-05-19,0.625,-10,T. Moeller,03-05-19,0.625,10,0,10,1,10,0,10,1,NA,post,5784.04,M. Sheffer,NA
+France,Estonia,Ikla,E18-Ikla-7,n,1,05-08-18,05-04-19,0.625,-18,L. Zander,05-04-19,0.625,7,3,10,0.7,8,2,10,0.8,NA,post,7994.45,M. Sheffer,NA
+France,Estonia,Ikla,E18-Ikla-7,n,2,20-08-18,20-04-19,0.625,-18,T. Moeller,20-04-19,0.625,8,2,10,0.8,10,0,10,1,NA,post,7994.45,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-10,n,1,13-08-18,13-04-19,0.625,-18,L. Zander,13-04-19,0.625,9,1,10,0.9,9,1,10,0.9,NA,post,6599.96,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-10,n,2,28-08-18,28-04-19,0.375,-18,J. Balk,28-04-19,0.381944444,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,6599.96,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-101,n,1,08-08-18,11-04-19,0.375,-10,T. Moeller,11-04-19,0.416666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,NA,NA,only 5 legs
+Estonia,Estonia,Paernu,E18-Paernu-101,n,2,23-08-18,25-04-19,0.375,-10,L. Zander,25-04-19,0.40625,10,0,10,1,10,0,10,1,NA,post,NA,NA,only 5 legs
+Estonia,Estonia,Paernu,E18-Paernu-102,n,1,29-08-18,28-04-19,0.375,-18,M. Sheffer,28-04-19,0.375,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,6622.37,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-107,n,1,22-08-18,22-04-19,0.625,-26,M. Sheffer,22-04-19,0.628472222,4,6,10,0.4,10,0,10,1,NA,post,6360.32,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-109,n,1,04-08-18,04-04-19,0.625,-10,T. Moeller,04-04-19,0.625,10,0,10,1,10,0,10,1,NA,post,6491.99,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-111,n,1,11-08-18,10-04-19,0.375,-32,J. Balk,10-04-19,0.399305556,0,10,10,0,10,0,10,1,NA,post,7386.62,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-111,n,2,01-09-18,01-05-19,0.375,-32,J. Balk,01-05-19,0.378472222,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,7386.62,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-112,n,1,05-08-18,05-04-19,0.625,-32,M. Sheffer,05-04-19,0.625,0,10,10,0,10,0,10,1,not in freezer overnight,post,6149.6,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-112,n,2,19-08-18,19-04-19,0.625,-32,T. Moeller,19-04-19,0.625,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,6149.6,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-114,n,1,04-08-18,04-04-19,0.375,-32,J. Balk,04-04-19,0.375,1,9,10,0.1,10,0,10,1,NA,post,7106.27,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-115,n,1,04-08-18,04-04-19,0.625,-10,M. Sheffer,04-04-19,0.625,10,0,10,1,10,0,10,1,NA,post,6157.01,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-119,n,1,05-08-18,05-04-19,0.375,-32,M. Sheffer,05-04-19,0.375,8,2,10,0.8,10,0,10,1,NA,post,6294.05,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-120,n,1,05-08-18,05-04-19,0.625,-18,J. Balk,05-04-19,0.625,10,0,10,1,10,0,10,1,NA,post,5979.43,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-120,n,2,16-08-18,16-04-19,0.625,-18,M. Sheffer,16-04-19,0.625,7,3,10,0.7,10,0,10,1,NA,post,5979.43,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-123,n,1,08-08-18,08-04-19,0.625,-10,J. Balk,08-04-19,0.625,10,0,10,1,10,0,10,1,NA,post,6889.84,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-123,n,2,23-08-18,23-04-19,0.625,-10,M. Sheffer,23-04-19,0.641666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,6889.84,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-124,n,1,13-08-18,13-04-19,0.375,-18,T. Moeller,13-04-19,0.378472222,8,2,10,0.8,10,0,10,1,NA,post,6083.9,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-124,n,2,01-09-18,01-05-19,0.375,-10,L. Zander,01-05-19,0.375,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,6083.9,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-125,n,1,13-08-18,13-04-19,0.375,-18,J. Balk,13-04-19,0.375,10,0,10,1,10,0,10,1,NA,post,7285.4,M. Sheffer,left
+France,Estonia,Paernu,E18-Paernu-125,n,2,30-08-18,30-04-19,0.375,-26,T. Moeller,30-04-19,0.375,8,2,10,0.8,10,0,10,1,NA,post,7285.4,M. Sheffer,left
+France,Estonia,Paernu,E18-Paernu-126,n,1,25-08-18,25-04-19,0.375,-10,M. Sheffer,25-04-19,0.378472222,10,0,10,1,10,0,10,1,NA,post,6499.64,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-127,n,1,11-08-18,11-04-19,0.625,-26,T. Moeller,11-04-19,0.604166667,4,6,10,0.4,10,0,10,1,NA,post,6442.33,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-127,n,2,25-08-18,25-04-19,0.375,-18,L. Zander,25-04-19,0.388888889,6,4,10,0.6,10,0,10,1,NA,post,6442.33,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-128,n,1,08-08-18,08-04-19,0.375,-32,M. Sheffer,08-04-19,0.3875,5,5,10,0.5,10,0,10,1,NA,post,6602.98,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-129,n,1,11-08-18,11-04-19,0.625,-26,J. Balk,11-04-19,0.604166667,2,8,10,0.2,10,0,10,1,NA,post,5932.98,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-129,n,2,26-08-18,26-04-19,0.625,-10,T. Moeller,26-04-19,0.625,10,0,10,1,10,0,10,1,NA,post,5932.98,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-131,n,1,19-08-18,19-04-19,0.375,-10,T. Moeller,19-04-19,0.375,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,5704.5,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-131,n,2,03-09-18,03-05-19,0.625,-10,M. Sheffer,03-05-19,0.625,10,0,10,1,10,0,10,1,NA,post,5704.5,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-133,n,1,16-08-18,16-04-19,0.625,-32,L. Zander,16-04-19,0.625,0,10,10,0,10,0,10,1,NA,post,6601.86,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-134,n,1,29-08-18,28-04-19,0.625,-18,M. Sheffer,28-04-19,0.625,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,6361.02,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-135,n,1,08-08-18,13-04-19,0.625,-18,T. Moeller,13-04-19,0.625,8,2,10,0.8,10,0,10,1,NA,post,6649.14,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-135,n,2,25-08-18,25-04-19,0.375,-10,L. Zander,25-04-19,0.375,10,0,10,1,10,0,10,1,NA,post,6649.14,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-136,n,1,20-08-18,20-04-19,0.375,-18,L. Zander,20-04-19,0.395833333,9,1,10,0.9,10,0,10,1,NA,post,5748.84,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-136,n,2,03-09-18,03-05-19,0.625,-10,J. Balk,03-05-19,0.625,10,0,10,1,10,0,10,1,NA,post,5748.84,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-139,n,1,18-08-18,18-04-19,0.375,-26,L. Zander,18-04-19,0.375,0,10,10,0,10,0,10,1,NA,post,6098.37,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-14,n,1,19-08-18,19-04-19,0.375,-18,M. Sheffer,19-04-19,0.375,7,3,10,0.7,10,0,10,1,NA,post,4664.36,M. Sheffer,left
+Estonia,Estonia,Paernu,E18-Paernu-14,n,2,22-08-18,22-04-19,0.375,-26,T. Moeller,22-04-19,0.378472222,6,4,10,0.6,9,1,10,0.9,NA,post,4664.36,M. Sheffer,left
+Estonia,Estonia,Paernu,E18-Paernu-144,n,1,16-08-18,16-04-19,0.375,-18,M. Sheffer,16-04-19,0.381944444,9,1,10,0.9,10,0,10,1,NA,post,6825.63,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-149,n,1,20-08-18,20-04-19,0.625,-18,M. Sheffer,20-04-19,0.625,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,4438.41,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-158,n,1,04-08-18,04-04-19,0.375,-32,M. Sheffer,04-04-19,0.375,3,7,10,0.3,10,0,10,1,NA,post,6484.03,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-159,n,1,04-08-18,04-04-19,0.625,-10,L. Zander,04-04-19,0.625,10,0,10,1,10,0,10,1,NA,post,5146.76,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-159,n,2,16-08-18,16-04-19,0.625,-18,L. Zander,16-04-19,0.631944444,8,2,10,0.8,10,0,10,1,NA,post,5146.76,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-16,n,1,31-08-18,01-05-19,0.625,-10,L. Zander,01-05-19,0.625,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,7172.45,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-161,n,1,05-08-18,05-04-19,0.375,-18,L. Zander,05-04-19,0.375,9,1,10,0.9,10,0,10,1,NA,post,7184.26,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-164,n,1,05-08-18,05-04-19,0.375,-32,J. Balk,05-04-19,0.375,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,5706.81,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-19,n,1,07-08-18,07-04-19,0.375,-26,M. Sheffer,07-04-19,0.375,5,5,10,0.5,10,0,10,1,NA,post,6112.16,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-19,n,2,25-08-18,25-04-19,0.625,-18,T. Moeller,25-04-19,0.625,8,2,10,0.8,9,0,9,1,in freezer 10 min too long,post,6112.16,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-20,n,1,14-08-18,14-04-19,0.375,-32,L. Zander,14-04-19,0.385416667,2,8,10,0.2,10,0,10,1,NA,post,5071.99,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-20,n,2,01-09-18,01-05-19,0.375,-32,L. Zander,01-05-19,0.375,3,7,10,0.3,10,0,10,1,NA,post,5071.99,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-21,n,1,11-08-18,11-04-19,0.375,-26,J. Balk,11-04-19,0.375,2,8,10,0.2,10,0,10,1,NA,post,6304.75,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-21,n,2,28-08-18,28-04-19,0.375,-26,J. Balk,28-04-19,0.375,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,6304.75,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-22,n,1,16-08-18,16-04-19,0.375,-10,J. Balk,16-04-19,0.375,10,0,10,1,10,0,10,1,NA,post,7025.8,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-25,n,1,08-08-18,09-04-19,0.625,-18,L. Zander,09-04-19,0.635416667,7,3,10,0.7,4,0,4,1,"was planned to be E18-Paernu-17, but it was already opened",post,6007.16,M. Sheffer,left
+France,Estonia,Paernu,E18-Paernu-26,n,1,07-08-18,07-04-19,0.375,-26,J. Balk,07-04-19,0.375,3,7,10,0.3,10,0,10,1,NA,post,7373.72,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-26,n,2,25-08-18,25-04-19,0.625,-10,L. Zander,25-04-19,0.625,10,0,10,1,10,0,10,1,in freezer 10 min too long,post,7373.72,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-28,n,1,14-08-18,14-04-19,0.625,-26,T. Moeller,14-04-19,0.625,2,8,10,0.2,10,0,10,1,NA,post,5919.89,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-28,n,2,31-08-18,01-05-19,0.375,-10,T. Moeller,01-05-19,0.375,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,5919.89,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-29,n,1,07-08-18,07-04-19,0.625,-26,M. Sheffer,07-04-19,0.623611111,2,8,10,0.2,10,0,10,1,NA,post,6167.72,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-3,n,1,19-08-18,19-04-19,0.375,-32,L. Zander,19-04-19,0.388888889,0,10,10,0,10,0,10,1,NA,post,8205.89,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-34,n,1,07-08-18,07-04-19,0.625,-32,T. Moeller,07-04-19,0.628472222,0,10,10,0,10,0,10,1,NA,post,5830.03,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-34,n,2,18-08-18,18-04-19,0.625,-32,J. Balk,18-04-19,0.625,0,10,10,0,10,0,10,1,NA,post,5830.03,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-39,n,1,20-08-18,20-04-19,0.375,-18,T. Moeller,20-04-19,0.375,5,5,10,0.5,10,0,10,1,NA,post,5703.77,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-39,n,2,01-09-18,02-05-19,0.375,-18,L. Zander,02-05-19,0.381944444,8,2,10,0.8,10,0,10,1,consider excluding,post,5703.77,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-40,n,1,14-08-18,14-04-19,0.375,-32,M. Sheffer,14-04-19,0.378472222,3,7,10,0.3,10,0,10,1,NA,post,4805.78,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-45,n,1,16-08-18,16-04-19,0.375,-18,L. Zander,16-04-19,0.395833333,7,3,10,0.7,10,0,10,1,NA,post,5479.41,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-47,n,1,22-08-18,22-04-19,0.625,-26,L. Zander,22-04-19,0.642361111,5,5,10,0.5,10,0,10,1,NA,post,6471.16,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-5,n,1,19-08-18,19-04-19,0.625,-10,L. Zander,19-04-19,0.625,10,0,10,1,10,0,10,1, freezer -9 not -10,post,6026.42,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-5,n,2,01-09-18,05-05-19,0.625,-18,L. Zander,05-05-19,0.625,0,10,10,0,10,0,10,1,consider excluding,post,6026.42,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-50,n,1,07-08-18,07-04-19,0.625,-32,T. Moeller,07-04-19,0.623611111,0,10,10,0,10,0,10,1,NA,post,5424.1,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-51,n,1,08-08-18,09-04-19,0.625,-18,M. Sheffer,09-04-19,0.627083333,10,0,10,1,10,0,10,1,"was planned to be E18-Paernu-51, but it was already opened",post,6787.69,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-53,n,1,07-08-18,07-04-19,0.625,-26,J. Balk,07-04-19,0.623611111,0,10,10,0,10,0,10,1,NA,post,5040.74,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-54,n,1,15-08-18,15-04-19,0.625,-10,L. Zander,15-04-19,0.624305556,10,0,10,1,10,0,10,1,10 minutes too long in freezer,post,6962.18,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-54,n,2,31-08-18,01-05-19,0.625,-10,M. Sheffer,01-05-19,0.625,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,6962.18,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-56,n,1,07-08-18,05-04-19,0.375,-10,T. Moeller,05-04-19,0.375,10,0,10,1,10,0,10,1,NA,post,6821.69,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-57,n,1,14-08-18,14-04-19,0.375,-26,T. Moeller,14-04-19,0.375,4,6,10,0.4,10,0,10,1,NA,post,5411.65,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-57,n,2,27-08-18,27-04-19,0.625,-26,M. Sheffer,27-04-19,0.625,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,5411.65,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-6,n,1,18-08-18,18-04-19,0.375,-26,M. Sheffer,18-04-19,0.388888889,3,7,10,0.3,10,0,10,1,NA,post,5529.23,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-60,n,1,08-08-18,08-04-19,0.625,-32,L. Zander,08-04-19,0.625,0,10,10,0,10,0,10,1,NA,post,6657.33,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-60,n,2,27-08-18,27-04-19,0.625,-32,L. Zander,27-04-19,0.625,0,10,10,0,10,0,10,1,NA,post,6657.33,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-62,n,1,16-08-18,16-04-19,0.375,-32,J. Balk,16-04-19,0.395833333,3,7,10,0.3,10,0,10,1,NA,post,7099.3,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-62,n,2,01-09-18,01-05-19,0.375,-32,T. Moeller,01-05-19,0.378472222,2,5,7,0.285714286,7,0,7,1,NA,post,7099.3,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-64,n,1,11-08-18,11-04-19,0.625,-26,T. Moeller,11-04-19,0.604166667,0,10,10,0,10,0,10,1,NA,post,6376.22,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-64,n,2,26-08-18,26-04-19,0.375,-10,T. Moeller,26-04-19,0.375,10,0,10,1,10,0,10,1,NA,post,6376.22,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-65,n,1,07-08-18,07-04-19,0.375,-32,T. Moeller,07-04-19,0.375,2,8,10,0.2,10,0,10,1,NA,post,5814.6,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-68,n,1,07-08-18,11-04-19,0.375,-10,M. Sheffer,11-04-19,0.375,10,0,10,1,10,0,10,1,NA,post,6334.22,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-7,n,1,09-08-18,09-04-19,0.625,-32,J. Balk,09-04-19,0.625694444,0,10,10,0,10,0,10,1,NA,post,6587.5,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-72,n,1,01-09-18,01-05-19,0.625,-10,L. Zander,01-05-19,0.625,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,5497.54,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-74,n,1,16-08-18,16-04-19,0.375,-10,T. Moeller,16-04-19,0.375,10,0,10,1,10,0,10,1,NA,post,5249.2,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-74,n,2,03-09-18,03-05-19,0.375,-10,T. Moeller,03-05-19,0.375,10,0,10,1,10,0,10,1,NA,post,5249.2,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-78,n,1,07-08-18,07-04-19,0.375,-26,T. Moeller,07-04-19,0.385416667,6,4,10,0.6,10,0,10,1,NA,post,5187.3,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-78,n,2,20-08-18,20-04-19,0.625,-18,L. Zander,20-04-19,0.625,9,1,10,0.9,10,0,10,1,NA,post,5187.3,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-79,n,1,22-08-18,22-04-19,0.625,-26,M. Sheffer,22-04-19,0.645833333,1,9,10,0.1,9,1,10,0.9,NA,post,5474.07,M. Sheffer,left
+France,Estonia,Paernu,E18-Paernu-80,n,1,19-08-18,19-04-19,0.375,-10,L. Zander,19-04-19,0.375,10,0,10,1,10,0,10,1, freezer -9 not -10,post,6386.62,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-80,n,2,03-09-18,03-05-19,0.375,-10,M. Sheffer,03-05-19,0.375,10,0,10,1,10,0,10,1,NA,post,6386.62,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-81,n,1,08-08-18,09-04-19,0.625,-18,T. Moeller,09-04-19,0.625694444,10,0,10,1,8,2,10,0.8,"was planned to be E18-Paernu-38, but it was already opened",post,7042.78,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-83,n,1,20-08-18,20-04-19,0.375,-18,L. Zander,20-04-19,0.375,9,1,10,0.9,10,0,10,1,NA,post,7486.1,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-84,n,1,08-08-18,08-04-19,0.375,-10,M. Sheffer,08-04-19,0.375,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,4323.82,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-85,n,1,08-08-18,08-04-19,0.625,-10,M. Sheffer,08-04-19,0.625,8,2,10,0.8,10,0,10,1,NA,post,5526.04,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-85,n,2,22-08-18,22-04-19,0.375,-26,M. Sheffer,22-04-19,0.379166667,6,4,10,0.6,10,0,10,1,NA,post,5526.04,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-86,n,1,18-08-18,18-04-19,0.625,-26,M. Sheffer,18-04-19,0.625,0,10,10,0,10,0,10,1,NA,post,6365.85,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-87,n,1,09-08-18,09-04-19,0.625,-18,L. Zander,09-04-19,0.625694444,10,0,10,1,10,0,10,1,NA,post,5936.35,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-87,n,2,23-08-18,23-04-19,0.625,-18,T. Moeller,23-04-19,0.625,8,2,10,0.8,10,0,10,1,NA,post,5936.35,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-89,n,1,09-08-18,09-04-19,0.375,-18,J. Balk,09-04-19,0.375,8,2,10,0.8,10,0,10,1,NA,post,8310.9,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-89,n,2,23-08-18,23-04-19,0.375,-18,T. Moeller,23-04-19,0.375,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,8310.9,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-9,n,1,16-08-18,16-04-19,0.375,-32,T. Moeller,16-04-19,0.395833333,1,9,10,0.1,10,0,10,1,NA,post,5138.51,M. Sheffer,left
+France,Estonia,Paernu,E18-Paernu-91,n,1,05-08-18,04-04-19,0.375,-32,L. Zander,04-04-19,0.375,0,10,10,0,10,0,10,1,NA,post,6928.47,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-91,n,2,22-08-18,22-04-19,0.375,-32,L. Zander,22-04-19,0.385416667,0,10,10,0,10,0,10,1,NA,post,6928.47,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-92,n,1,14-08-18,14-04-19,0.375,-26,L. Zander,14-04-19,0.375,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,4529.52,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-93,n,1,14-08-18,14-04-19,0.625,-26,L. Zander,14-04-19,0.625,5,5,10,0.5,10,0,10,1,NA,post,5146.14,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-93,n,2,30-08-18,30-04-19,0.375,-26,J. Balk,30-04-19,0.375,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,5146.14,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-95,n,1,16-08-18,16-04-19,0.625,-32,T. Moeller,16-04-19,0.625,0,10,10,0,8,0,8,1,NA,post,5612.86,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-95,n,2,02-09-18,05-05-19,0.625,-32,L. Zander,05-05-19,0.6375,0,10,10,0,10,0,10,1,consider excluding,post,5612.86,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalO-1,n,1,30-08-18,30-04-19,0.625,-26,M. Sheffer,30-04-19,0.625,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,5553.87,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalO-10,n,1,30-08-18,30-04-19,0.375,-26,L. Zander,30-04-19,0.375,2,8,10,0.2,10,0,10,1,NA,post,6151.05,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalO-12,n,1,02-09-18,05-05-19,0.625,-18,M. Sheffer,05-05-19,0.625,NA,NA,NA,NA,NA,NA,NA,NA,consider excluding,post,12100.09,L. Zander,one leg in vial
+Estonia,France,Mireval,SF18-MirevalO-12,n,2,18-09-18,18-05-19,0.375,-18,M. Sheffer,18-05-19,0.381944444,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,12100.09,L. Zander,one leg in vial
+Estonia,France,Mireval,SF18-MirevalO-17,n,1,07-09-18,07-05-19,0.625,-10,J. Balk,07-05-19,0.625,10,0,10,1,10,0,10,1,NA,post,7410.05,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalO-21,n,1,28-08-18,28-04-19,0.375,-18,M. Sheffer,28-04-19,0.381944444,9,1,10,0.9,10,0,10,1,NA,post,8835.88,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalO-21,n,2,18-09-18,18-05-19,0.375,-18,M. Sheffer,18-05-19,0.381944444,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,8835.88,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalO-22,n,1,05-09-18,04-05-19,0.375,-26,M. Sheffer,04-05-19,0.380555556,6,4,10,0.6,10,0,10,1,NA,post,6573.72,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalO-24,n,1,03-09-18,02-05-19,0.375,-32,L. Zander,02-05-19,0.375,0,9,9,0,10,0,10,1,consider excluding,post,7914.49,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalO-26,n,1,06-09-18,06-05-19,0.375,-18,M. Sheffer,06-05-19,0.381944444,4,6,10,0.4,10,0,10,1,NA,post,7495.34,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalO-27,n,1,22-08-18,22-04-19,0.375,-26,L. Zander,22-04-19,0.375,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,11448.17,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalO-27,n,2,06-09-18,06-05-19,0.375,-10,L. Zander,06-05-19,0.375,5,2,7,0.714285714,8,0,8,1,NA,post,11448.17,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalO-31,n,1,27-08-18,27-04-19,0.375,-26,L. Zander,27-04-19,0.375,6,4,10,0.6,10,0,10,1,NA,post,6833.25,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalO-31,n,2,13-09-18,12-05-19,0.625,-26,L. Zander,12-05-19,0.628472222,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,6833.25,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalO-32,n,1,16-08-18,16-04-19,0.625,-18,J. Balk,16-04-19,0.625,6,4,10,0.6,10,0,10,1,NA,post,6464.3,M. Sheffer,left
+France,France,Mireval,SF18-MirevalO-33,n,1,01-09-18,01-05-19,0.375,-32,J. Balk,01-05-19,0.375,0,10,10,0,10,0,10,1,NA,post,8740.98,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalO-34,n,1,08-09-18,08-05-19,0.375,-10,L. Zander,08-05-19,0.375,10,0,10,1,10,0,10,1,NA,post,7611.74,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalO-36,n,1,10-09-18,09-05-19,0.625,-18,J. Balk,09-05-19,0.625,9,1,10,0.9,7,1,8,0.875,NA,post,7707.5,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalO-37,n,1,10-09-18,09-05-19,0.625,-18,L. Zander,09-05-19,0.625,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,7780.4,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalO-38,n,1,06-09-18,06-05-19,0.625,-10,L. Zander,06-05-19,0.625,10,0,10,1,10,0,10,1,NA,post,6152.46,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalO-40,n,1,23-08-18,23-04-19,0.625,-10,M. Sheffer,23-04-19,0.625,10,0,10,1,10,0,10,1,NA,post,11912.95,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalO-40,n,2,11-09-18,12-05-19,0.625,-26,M. Sheffer,12-05-19,0.625,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,11912.95,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalO-42,n,1,20-08-18,20-04-19,0.375,-18,M. Sheffer,20-04-19,0.385416667,4,6,10,0.4,9,1,10,0.9,NA,post,7441.31,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalO-45,n,1,20-08-18,20-04-19,0.625,-18,L. Zander,20-04-19,0.633333333,9,1,10,0.9,9,1,10,0.9,NA,post,7945.49,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalO-45,n,2,08-09-18,08-05-19,0.375,-10,J. Balk,08-05-19,0.375,10,0,10,1,10,0,10,1,NA,post,7945.49,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalO-47,n,1,12-09-18,12-05-19,0.375,-26,L. Zander,12-05-19,0.375,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,7229.51,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-11,n,1,25-08-18,25-04-19,0.625,-18,M. Sheffer,25-04-19,0.625,6,4,10,0.6,10,0,10,1,in freezer 10 min too long,post,7854.48,M. Sheffer,left
+Estonia,France,Mireval,SF18-MirevalW-11,n,2,19-09-18,19-05-19,0.625,-18,M. Sheffer,19-05-19,0.625,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,7854.48,M. Sheffer,left
+Estonia,France,Mireval,SF18-MirevalW-12,n,1,10-09-18,09-05-19,0.375,-32,J. Balk,09-05-19,0.375,0,10,10,0,10,0,10,1,NA,post,8246.89,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-13,n,1,13-08-18,13-04-19,0.625,-32,J. Balk,13-04-19,0.625,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,6883.2,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-13,n,2,03-09-18,03-05-19,0.625,-32,L. Zander,03-05-19,0.625,0,10,10,0,10,0,10,1,NA,post,6883.2,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-15,n,1,01-09-18,01-05-19,0.625,-10,J. Balk,01-05-19,0.625,10,0,10,1,10,0,10,1,NA,post,8192.29,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-17,n,1,20-08-18,20-04-19,0.625,-32,M. Sheffer,20-04-19,0.633333333,0,10,10,0,10,0,10,1,NA,post,NA,NA,one leg in vial
+Estonia,France,Mireval,SF18-MirevalW-17,n,2,03-09-18,03-05-19,0.625,-32,L. Zander,03-05-19,0.625,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,NA,NA,one leg in vial
+France,France,Mireval,SF18-MirevalW-18,n,1,15-09-18,16-05-19,0.625,-10,M. Sheffer,16-05-19,0.625,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,7413.95,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-1B,n,1,11-08-18,11-04-19,0.625,-26,L. Zander,11-04-19,0.625,5,5,10,0.5,10,0,10,1,NA,post,7751.35,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-200,n,1,26-08-18,26-04-19,0.625,-10,L. Zander,26-04-19,0.625,10,0,10,1,10,0,10,1,NA,post,8088.85,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-30,n,1,04-09-18,04-05-19,0.625,-26,T. Moeller,04-05-19,0.625,2,8,10,0.2,10,0,10,1,NA,post,7175.23,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-32,n,1,14-08-18,14-04-19,0.625,-32,L. Zander,14-04-19,0.631944444,0,10,10,0,10,0,10,1,NA,post,7069.49,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-33,n,1,28-08-18,28-04-19,0.625,-32,J. Balk,28-04-19,0.625,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,6945.75,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-33,n,2,09-09-18,09-05-19,0.625,-32,L. Zander,09-05-19,0.625,1,9,10,0.1,8,2,10,0.8,NA,post,6945.75,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-34,n,1,18-09-18,18-05-19,0.625,-18,J. Balk,18-05-19,0.625,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,6932.07,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-35,n,1,21-08-18,22-04-19,0.625,-26,L. Zander,22-04-19,0.625,7,3,10,0.7,9,1,10,0.9,NA,post,7434.19,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-36,n,1,16-08-18,16-04-19,0.375,-18,L. Zander,16-04-19,0.375,10,0,10,1,10,0,10,1,NA,post,8263.45,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-39,n,1,13-08-18,13-04-19,0.375,-18,M. Sheffer,13-04-19,0.378472222,10,0,10,1,10,0,10,1,NA,post,NA,NA,one leg in vial
+France,France,Mireval,SF18-MirevalW-39,n,2,08-09-18,08-05-19,0.375,-18,L. Zander,08-05-19,0.388888889,8,2,10,0.8,10,0,10,1,NA,post,NA,NA,one leg in vial
+France,France,Mireval,SF18-MirevalW-4,n,1,04-09-18,04-05-19,0.375,-26,T. Moeller,04-05-19,0.375,4,6,10,0.4,10,0,10,1,NA,post,7216.64,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-47,n,1,09-08-18,09-04-19,0.375,-18,L. Zander,09-04-19,0.375,9,1,10,0.9,10,0,10,1,NA,post,8478.38,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-48,n,1,19-08-18,19-04-19,0.625,-10,M. Sheffer,19-04-19,0.625,10,0,10,1,10,0,10,1, freezer -9 not -10,post,8150.94,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-48,n,2,10-09-18,09-05-19,0.375,-18,L. Zander,09-05-19,0.375,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,8150.94,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-5,n,1,07-09-18,07-05-19,0.625,-32,M. Sheffer,07-05-19,0.625,0,10,10,0,10,0,10,1,NA,post,7529.18,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-51,n,1,13-08-18,13-04-19,0.625,-32,L. Zander,13-04-19,0.638888889,0,10,10,0,10,0,10,1,NA,post,7201.79,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-51,n,2,03-09-18,03-05-19,0.625,-32,L. Zander,03-05-19,0.625,0,10,10,0,10,0,10,1,NA,post,7201.79,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-53,n,1,08-09-18,08-05-19,0.375,-10,M. Sheffer,08-05-19,0.383333333,7,0,7,1,7,1,8,0.875,NA,post,8227.59,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-56,n,1,28-08-18,28-04-19,0.625,-18,J. Balk,28-04-19,0.625,5,5,10,0.5,10,0,10,1,NA,post,8025.21,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-58,n,1,04-09-18,04-05-19,0.625,-26,M. Sheffer,04-05-19,0.625,3,7,10,0.3,10,0,10,1,NA,post,8698.13,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-60,n,1,07-09-18,07-05-19,0.375,-26,L. Zander,07-05-19,0.375,10,0,10,1,0,10,10,0,NA,post,7493.91,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-62,n,1,15-08-18,15-04-19,0.375,-10,M. Sheffer,15-04-19,0.378472222,10,0,10,1,10,0,10,1,NA,post,8762.48,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-62,n,2,10-09-18,09-05-19,0.375,-18,L. Zander,09-05-19,0.378472222,7,3,10,0.7,10,0,10,1,NA,post,8762.48,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-63,n,1,11-08-18,10-04-19,0.375,-32,J. Balk,10-04-19,0.375,0,10,10,0,10,0,10,1,NA,post,7099.94,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-64,n,1,11-08-18,11-04-19,0.375,-26,J. Balk,11-04-19,0.385416667,0,10,10,0,10,0,10,1,NA,post,6845.85,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-64,n,2,31-08-18,01-05-19,0.375,-32,M. Sheffer,01-05-19,0.377083333,0,9,9,0,10,0,10,1,NA,post,6845.85,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-66,n,1,11-08-18,11-04-19,0.625,-26,L. Zander,11-04-19,0.604166667,0,10,10,0,10,0,10,1,NA,post,9063.45,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-66,n,2,19-09-18,19-05-19,0.375,-26,M. Sheffer,19-05-19,0.385416667,8,2,10,0.8,10,0,10,1,NA,post,9063.45,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-67,n,1,03-09-18,03-05-19,0.375,-10,L. Zander,03-05-19,0.375,10,0,10,1,9,1,10,0.9,NA,post,7314.6,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-68,n,1,11-08-18,10-04-19,0.375,-32,L. Zander,10-04-19,0.375,0,10,10,0,10,0,10,1,NA,post,8785.71,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-69,n,1,13-08-18,13-04-19,0.625,-32,M. Sheffer,13-04-19,0.628472222,0,10,10,0,10,0,10,1,NA,post,6980.87,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-69,n,2,08-09-18,08-05-19,0.625,-32,M. Sheffer,08-05-19,0.625,0,10,10,0,10,0,10,1,NA,post,6980.87,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-7,n,1,08-08-18,08-04-19,0.375,-10,J. Balk,08-04-19,0.375,10,0,10,1,10,0,10,1,NA,post,8061.48,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-70,n,1,03-09-18,03-05-19,0.375,-32,J. Balk,03-05-19,0.375,0,10,10,0,10,0,10,1,NA,post,8736.32,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-72,n,1,19-08-18,19-04-19,0.625,-32,T. Moeller,19-04-19,0.627083333,0,10,10,0,10,0,10,1,NA,post,5876.37,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-72,n,2,04-09-18,04-05-19,0.625,-32,J. Balk,04-05-19,0.625,0,10,10,0,10,0,10,1,NA,post,5876.37,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-73,n,1,30-08-18,30-04-19,0.625,-10,T. Moeller,30-04-19,0.625,10,0,10,1,10,0,10,1,NA,post,7369.15,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-77,n,1,21-08-18,22-04-19,0.625,-26,T. Moeller,22-04-19,0.625,0,10,10,0,10,0,10,1,NA,post,7757.69,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-79,n,1,03-09-18,03-05-19,0.625,-10,T. Moeller,03-05-19,0.625,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,8706.57,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-8,n,1,02-09-18,02-05-19,0.375,-18,J. Balk,02-05-19,0.375,7,3,10,0.7,10,0,10,1,consider excluding,post,NA,NA,one leg in vial
+Estonia,France,Mireval,SF18-MirevalW-8,n,2,18-09-18,18-05-19,0.375,-18,M. Sheffer,18-05-19,0.378472222,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,NA,NA,one leg in vial
+France,France,Mireval,SF18-MirevalW-80,n,1,08-09-18,08-05-19,0.625,-10,J. Balk,08-05-19,0.625,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,7226.71,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-82,n,1,13-08-18,13-04-19,0.375,-18,L. Zander,13-04-19,0.375,9,1,10,0.9,10,0,10,1,NA,post,7983.33,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-82,n,2,01-09-18,01-05-19,0.625,-10,T. Moeller,01-05-19,0.625,10,0,10,1,10,0,10,1,NA,post,7983.33,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-85,n,1,11-08-18,11-04-19,0.375,-10,L. Zander,11-04-19,0.395833333,10,0,10,1,10,0,10,1,NA,post,8635.55,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-85,n,2,16-09-18,16-05-19,0.375,-10,M. Sheffer,16-05-19,0.383333333,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,8635.55,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-86,n,1,11-08-18,10-04-19,0.375,-32,M. Sheffer,10-04-19,0.381944444,0,10,10,0,10,0,10,1,NA,post,8283.77,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-86,n,2,06-09-18,06-05-19,0.375,-32,L. Zander,06-05-19,0.385416667,0,10,10,0,10,0,10,1,NA,post,8283.77,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-88,n,1,11-08-18,11-04-19,0.375,-32,L. Zander,11-04-19,0.375,0,10,10,0,10,0,10,1,NA,post,8401.42,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-88,n,2,10-09-18,12-05-19,0.375,-32,M. Sheffer,12-05-19,0.375,0,10,10,0,10,0,10,1,NA,post,8401.42,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-9,n,1,17-08-18,18-04-19,0.375,-26,L. Zander,18-04-19,0.395833333,0,10,10,0,10,0,10,1,NA,post,8358.03,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-90,n,1,13-08-18,13-04-19,0.625,-32,M. Sheffer,13-04-19,0.647916667,0,10,10,0,10,0,10,1,NA,post,8248.68,M. Sheffer,NA
+Estonia,France,Perry,SF18-Perry-1,n,1,25-08-18,25-04-19,0.375,-18,M. Sheffer,25-04-19,0.399305556,9,1,10,0.9,10,0,10,1,NA,post,9158.52,M. Sheffer,left
+France,France,Perry,SF18-Perry-10,n,1,02-09-18,05-05-19,0.625,-18,M. Sheffer,05-05-19,0.628472222,9,1,10,0.9,10,0,10,1,consider excluding,post,8518.94,M. Sheffer,NA
+France,France,Perry,SF18-Perry-11,n,1,26-08-18,26-04-19,0.375,-10,L. Zander,26-04-19,0.375,10,0,10,1,10,0,10,1,NA,post,8171.13,M. Sheffer,NA
+France,France,Perry,SF18-Perry-12,n,1,01-09-18,02-05-19,0.375,-18,M. Sheffer,02-05-19,0.381944444,10,0,10,1,10,0,10,1,consider excluding,post,7252.02,M. Sheffer,NA
+France,France,Perry,SF18-Perry-12,n,2,18-09-18,18-05-19,0.375,-18,J. Balk,18-05-19,0.378472222,2,8,10,0.2,10,0,10,1,NA,post,7252.02,M. Sheffer,NA
+France,France,Perry,SF18-Perry-13,n,1,10-09-18,09-05-19,0.625,-32,L. Zander,09-05-19,0.625,0,10,10,0,10,0,10,1,NA,post,9415.44,M. Sheffer,NA
+Estonia,France,Perry,SF18-Perry-14,n,1,14-08-18,14-04-19,0.625,-26,M. Sheffer,14-04-19,0.625,5,5,10,0.5,10,0,10,1,NA,post,8693.24,M. Sheffer,NA
+France,France,Perry,SF18-Perry-2,n,1,06-09-18,06-05-19,0.375,-32,J. Balk,06-05-19,0.375,0,10,10,0,10,0,10,1,NA,post,7890.47,M. Sheffer,NA
+France,France,Perry,SF18-Perry-5,n,1,14-08-18,14-04-19,0.625,-26,J. Balk,14-04-19,0.625,1,9,10,0.1,10,0,10,1,NA,post,8745.16,M. Sheffer,NA
+France,France,Perry,SF18-Perry-5,n,2,08-09-18,08-05-19,0.625,-10,L. Zander,08-05-19,0.625,10,0,10,1,10,0,10,1,NA,post,8745.16,M. Sheffer,NA
+France,France,Perry,SF18-Perry-6,n,1,12-09-18,12-05-19,0.625,-26,L. Zander,12-05-19,0.625,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,8540.25,M. Sheffer,NA
+Estonia,France,Perry,SF18-Perry-8,n,1,12-09-18,12-05-19,0.375,-26,L. Zander,12-05-19,0.375,NA,NA,NA,NA,NA,NA,NA,NA,NA,post,8450.97,M. Sheffer,NA

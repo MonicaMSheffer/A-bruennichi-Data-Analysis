@@ -1,0 +1,56 @@
+Name,Winter treatment,Origin,Opening round,Spider,TubeID,Photo,Cocoon_number,Oviposition_date,Planned opening date,Planned opening time,Opened by,Actual opening date,Actual opening time,Extraction date,Extracted by,Egg Number,Dead Number,Alive Number,Total,Mass,MassCategorical
+190716_JK_01_MeOH,France,Estonia,mid,E18-Paernu-15-Photo,JK_01,y,1,8/8/2018,8/2/2019,9:00:00,T. Moeller,8/2/2019,9:01:00,2.7.2019,JKM,0,0,224,224,48.683,high
+190716_JK_02_MeOH,France,France,mid,SF18-MirevalW-65,JK_02,n,1,11/8/2018,11/2/2019,15:00:00,A. Machnis,11/2/2019,15:00:00,2.7.2019,JKM,0,37,315,352,48.7,high
+190716_JK_03_MeOH,France,France,mid,SF18-MirevalW-50,JK_03,n,1,19-08-18,20-02-19,9:00:00,A. Machnis,20-02-19,9:00:00,2.7.2019,JKM,0,2,251,253,48.5,high
+190716_JK_04_MeOH,France,France,mid,SF18-MirevalW-22,JK_04,n,1,14-08-18,14-02-19,15:00:00,A. Machnis,14-02-19,15:08:00,2.7.2019,JKM,0,47,344,391,48.5,high
+190716_JK_05_MeOH,France,Estonia,mid,E18-Paernu-9-Photo,JK_05,y,1,14-08-18,14-02-19,9:00:00,T. Moeller,14-02-19,9:00:00,2.7.2019,JKM,0,18,474,492,48.45,high
+190716_JK_06_MeOH,France,Estonia,mid,E18-Paernu-157,JK_06,n,1,4/8/2018,4/2/2019,15:00:00,A. Machnis,4/2/2019,15:00:00,2.7.2019,JKM,0,5,468,473,48.7,high
+190716_JK_07_MeOH,France,France,post,SF18-MirevalW-47,JK_07,n,1,9/8/2018,9/4/2019,9:00:00,L. Zander,9/4/2019,9:00:00,3.7.2019,JKM,1,12,524,537,48.53,high
+190716_JK_08_MeOH,France,France,post,SF18-MirevalW-9,JK_08,n,1,17-08-18,18-04-19,9:00:00,L. Zander,18-04-19,9:30:00,3.7.2019,JKM,0,3,271,274,49.56,high
+190716_JK_09_MeOH,France,France,post,SF18-MirevalW-62,JK_09,n,1,15-08-18,15-04-19,9:00:00,M. Sheffer,15-04-19,9:05:00,3.7.2019,JKM,0,5,611,616,48.7,high
+190716_JK_12_MeOH,France,Estonia,post,E18-Paernu-161,JK_12,n,1,5/8/2018,5/4/2019,9:00:00,L. Zander,5/4/2019,9:00:00,3.7.2019,JKM,0,5,398,403,48.5,high
+190717_JK_13_MeOH,Estonia,France,post,SF18-MirevalW-1B,JK_13,n,1,11/8/2018,11/4/2019,15:00:00,L. Zander,11/4/2019,15:00:00,3.7.2019,JKM,0,38,358,396,48.5,high
+190717_JK_14_MeOH,Estonia,France,post,SF18-MirevalW-58,JK_14,n,1,4/9/2018,4/5/2019,15:00:00,M. Sheffer,4/5/2019,15:00:00,3.7.2019,JKM,0,17,223,240,48.6,high
+190717_JK_15_MeOH,Estonia,France,post,SF18-MirevalW-85,JK_15,n,1,11/8/2018,11/4/2019,9:00:00,L. Zander,11/4/2019,9:30:00,3.7.2019,JKM,0,169,546,715,48.72,high
+190717_JK_16_MeOH,Estonia,Estonia,post,E18-Paernu-115,JK_16,n,1,4/8/2018,4/4/2019,15:00:00,M. Sheffer,4/4/2019,15:00:00,3.7.2019,JKM,0,45,402,447,48.55,high
+190717_JK_17_MeOH,Estonia,Estonia,post,E18-Paernu-51,JK_17,n,1,8/8/2018,9/4/2019,15:00:00,M. Sheffer,9/4/2019,15:03:00,3.7.2019,JKM,0,63,293,356,48.6,high
+190717_JK_18_MeOH,Estonia,Estonia,post,E18-Paernu-29,JK_18,n,1,7/8/2018,7/4/2019,15:00:00,M. Sheffer,7/4/2019,14:58:00,3.7.2019,JKM,1,43,235,279,48.58,high
+190717_JK_19_MeOH,Estonia,France,mid,SF18-MirevalO-46,JK_19,n,1,9/8/2018,9/2/2019,9:00:00,A. Machnis,9/2/2019,9:04:00,3.7.2019,JKM,0,48,809,857,48.49,high
+190717_JK_20_MeOH,Estonia,France,mid,SF18-MirevalO-16,JK_20,n,1,12/8/2018,12/2/2019,15:00:00,T. Moeller,12/2/2019,15:03:00,3.7.2019,JKM,0,30,328,358,48.66,high
+190717_JK_21_MeOH,Estonia,France,mid,SF18-Belflou-13-Photo,JK_21,y,1,14-08-18,14-02-19,9:00:00,L. Zander,14-02-19,9:00:00,3.7.2019,JKM,0,23,541,564,48.79,high
+190717_JK_22_MeOH,Estonia,Estonia,mid,E18-Paernu-19-Photo,JK_22,y,1,8/8/2018,8/2/2019,15:00:00,A. Machnis,8/2/2019,15:00:00,3.7.2019,JKM,0,12,227,239,48.64,high
+190717_JK_23_MeOH,Estonia,Estonia,mid,E18-Paernu-6-Photo,JK_23,y,1,9/8/2018,9/2/2019,9:00:00,L. Zander,9/2/2019,9:03:00,3.7.2019,JKM,0,39,421,460,48.43,high
+190717_JK_24_MeOH,Estonia,Estonia,mid,E18-Paernu-77,JK_24,n,1,9/8/2018,9/2/2019,9:00:00,T. Moeller,9/2/2019,9:03:00,3.7.2019,JKM,26,14,289,329,48.78,high
+191107_CA_03,Estonia,Estonia,mid,E18-Paernu-2-Photo,CA_03,y,1,7/8/2018,7-Feb,9:00:00,T. Moeller,7-Feb,9:07,12.9.2019,CAMS,0,10,364,374,50.43,high
+191107_CA_04,Estonia,Estonia,mid,E18-Paernu-156,CA_04,n,1,4/8/2018,4-Feb,9:00:00,A. Machnis,4-Feb,8:58,13.9.2019,CA,3,1,351,355,49.197,high
+191107_CA_05,Estonia,Estonia,mid,E18-Paernu-20-Photo,CA_05,y,1,7/8/2018,7-Feb,9:00:00,A. Machnis,7-Feb,9:07,16.9.2019,CA,0,0,279,279,49.436,high
+191111_CA_06,Estonia,Estonia,mid,E18-Paernu-63,CA_06,n,1,10/8/2018,10-Feb,15:00:00,A. Machnis,10-Feb,15:00,17.9.2019,CA,4,42,247,293,49.564,high
+191107_CA_07,Estonia,France,mid,SF18-Belflou-20-Photo,CA_07,y,1,3/9/2018,3-Mar,15:00:00,T. Moeller,18-Feb,9:00,12.9.2019,CAMS,0,6,278,284,49.757,high
+191107_CA_08,Estonia,France,mid,SF18-Belflou-5-Photo,CA_08,y,1,15-08-18,15-Feb,9:00:00,L. Zander,15-Feb,9:01,13.9.2019,CA,3,59,254,316,50.584,high
+191107_CA_09,Estonia,France,mid,SF18-Belflou-18-Photo,CA_09,NA,NA,NA,NA,NA,NA,NA,NA,16.9.2019,CA,NA,NA,NA,NA,50.644,high
+191107_CA_10,Estonia,France,mid,SF18-MirevalO-39,CA_10,NA,NA,NA,NA,NA,NA,NA,NA,17.9.2019,CA,NA,NA,NA,NA,37.816,low
+191107_CA_11,France,Estonia,mid,E18-Paernu-4-Photo,CA_11,y,1,7/8/2018,7-Feb,15:00:00,M. Sheffer,7-Feb,15:05,12.9.2019,CAMS,0,2,449,451,49.842,high
+191111_CA_14,France,Estonia,mid,E18-Pulgoja-10-Photo,CA_14,y,1,14-08-18,14-Feb,15:00:00,L. Zander,14-Feb,15:00,16.9.2019,CA,1,5,338,344,50.043,high
+191107_CA_15,France,Estonia,mid,E18-Pulgoja-4-Photo,CA_15,y,1,12/8/2018,12-Feb,9:00:00,T. Moeller,12-Feb,9:05,16.9.2019,CA,1,2,261,264,49.201,high
+191107_CA_12,France,Estonia,mid,E18-Paernu-17-Photo,CA_12,y,1,10/8/2018,10-Feb,15:00:00,T. Moeller,10-Feb,15:00,17.9.2019,CA,0,28,180,208,38.533,low
+191111_CA_13,France,Estonia,mid,E18-Paernu-38,CA_13,n,1,10/8/2018,10-Feb,9:00:00,A. Machnis,10-Feb,9:00,17.9.2019,CA,0,20,175,195,37.417,low
+191111_CA_16,France,France,mid,SF18-Casties-15-Photo,CA_16,y,1,11/8/2018,11-Feb,15:00:00,L. Zander,11-Feb,14:59,12.9.2019,CAMS,0,7,416,423,49.689,high
+191111_CA_17,France,France,mid,SF18-Casties-10-Photo,CA_17,NA,NA,NA,NA,NA,NA,NA,NA,16.9.2019,CA,NA,NA,NA,NA,49.378,high
+191111_CA_18,France,France,mid,SF18-MirevalO-43,CA_18,n,1,10/8/2018,10-Feb,9:00:00,L. Zander,10-Feb,9:00,16.9.2019,CA,0,2,326,328,50.016,high
+191111_CA_19,France,France,mid,SF18-Belflou-8-Photo,CA_19,y,1,4/9/2018,4-Mar,9:00:00,A. Machnis,4-Mar,9:00,17.9.2019,CA,0,5,184,189,43.389,low
+191111_CA_20,Estonia,Estonia,post,E18-Paernu-56,CA_20,n,1,7/8/2018,5-Apr,9:00,T. Moeller,5/4/2019,9:00,13.9.2019,CA,0,78,291,369,50.094,high
+191111_CA_21,Estonia,Estonia,post,E18-Paernu-159,CA_21,n,1,4/8/2018,4-Apr,15:00,L. Zander,4/4/2019,15:00,16.9.2019,CA,0,75,258,333,50.037,high
+191111_CA_22,Estonia,Estonia,post,E18-Paernu-83,CA_22,n,1,20-08-18,20-Apr,9:00,L. Zander,20-04-19,9:00,16.9.2019,CA,0,17,204,221,49.228,high
+191107_CA_23,Estonia,Estonia,post,E18-Paernu-127,CA_23,n,1,11/8/2018,11-Apr,15:00,T. Moeller,11/4/2019,14:30,17.9.2019,CA,0,35,201,236,49.602,high
+191111_CA_24,Estonia,France,post,SF18-MirevalW-82,CA_24,n,1,13-08-18,13-Apr,9:00,L. Zander,13-04-19,9:00,13.9.2019,CA,0,153,192,345,49.698,high
+191107_CA_25,Estonia,France,post,SF18-MirevalW-67,CA_25,n,1,3/9/2018,3-May,9:00,L. Zander,3/5/2019,9:00,16.9.2019,CA,0,48,190,238,45.395,high
+191107_CA_26,Estonia,France,post,SF18-MirevalW-36,CA_26,n,1,16-08-18,16-Apr,9:00,L. Zander,16-04-19,9:00,16.9.2019,CA,0,155,156,311,31.017,low
+191107_CA_27,Estonia,France,post,SF18-MirevalO-38,CA_27,n,1,6/9/2018,6-May,15:00,L. Zander,6/5/2019,15:00,17.9.2019,CA,0,22,142,164,26.878,low
+191111_CA_28,France,Estonia,post,E18-Paernu-74,CA_28,n,1,16-08-18,16-Apr,9:00,T. Moeller,16-04-19,9:00,13.9.2019,CA,0,1,187,188,38.971,low
+191111_CA_29,France,Estonia,post,E18-Paernu-64,CA_29,n,1,11/8/2018,11-Apr,15:00,T. Moeller,11/4/2019,14:30,16.9.2019,CA,0,11,177,188,40.316,low
+191111_CA_30,France,Estonia,post,E18-Paernu-28,CA_30,n,1,14-08-18,14-Apr,15:00,T. Moeller,14-04-19,15:00,17.9.2019,CA,0,10,165,175,37.326,low
+191107_CA_31,France,Estonia,post,E18-Paernu-87,CA_31,NA,NA,NA,NA,NA,NA,NA,NA,17.9.2019,CA,NA,NA,NA,NA,26.2,low
+191107_CA_32,France,France,post,SF18-MirevalW-39,CA_32,n,1,13-08-18,13-Apr,9:00,M. Sheffer,13-04-19,9:05,13.9.2019,CA,0,1,392,393,50.658,high
+191107_CA_33,France,France,post,SF18-MirevalO-45,CA_33,n,1,20-08-18,20-Apr,15:00,L. Zander,20-04-19,15:12,16.9.2019,CA,0,4,297,301,49.832,high
+191111_CA_34,France,France,post,SF18-MirevalO-21,CA_34, ,1,28-08-18,28-Apr,9:00,M. Sheffer,28-04-19,9:10,17.9.2019,CA,2,0,227,229,43.541,low
+191111_CA_35,France,France,post,SF18-MirevalW-69,CA_35,n,1,13-08-18,13-Apr,15:00,M. Sheffer,13-04-19,15:05,17.9.2019,CA,0,0,224,224,50.291,high

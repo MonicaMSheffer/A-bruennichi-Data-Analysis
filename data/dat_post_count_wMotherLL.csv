@@ -1,0 +1,220 @@
+Winter.treatment,Origin,Population,MotherID,Photo,Cocoon_number,CollectionDate,Oviposition_date,Planned.opening.Date,Planned.opening.time,LT50.Temp,Opened.by,Actual.opening.date,Actual.opening.time,Egg.Number,Dead.Number,Alive.Number,Total,LT50_only,Notes,round,Mother_LegLength_um,MotherMeasuredBy,MotherLegLengthNotes
+France,Estonia,Ikla,E18-Ikla-2,n,1,02-08-18,08-08-18,08-04-19,0.375,-10,L. Zander,08-04-19,0.375,5,82,16,103,n,NA,post,NA,NA,loose legs in vial
+France,Estonia,Ikla,E18-Ikla-3,n,1,02-08-18,18-08-18,18-04-19,0.375,-26,J. Balk,18-04-19,0.375,0,18,170,188,n,NA,post,5784.04,M. Sheffer,NA
+France,Estonia,Ikla,E18-Ikla-3,n,2,02-08-18,03-09-18,03-05-19,0.625,-10,T. Moeller,03-05-19,0.625,13,82,10,105,n,NA,post,5784.04,M. Sheffer,NA
+France,Estonia,Ikla,E18-Ikla-7,n,1,02-08-18,05-08-18,05-04-19,0.625,-18,L. Zander,05-04-19,0.625,18,79,725,822,n,NA,post,7994.45,M. Sheffer,NA
+France,Estonia,Ikla,E18-Ikla-7,n,2,02-08-18,20-08-18,20-04-19,0.625,-18,T. Moeller,20-04-19,0.625,18,189,49,256,n,all in inner egg sac,post,7994.45,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-10,n,1,03-08-18,13-08-18,13-04-19,0.625,-18,L. Zander,13-04-19,0.625,39,108,51,198,n,all in inner egg sac,post,6599.96,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-10,n,2,03-08-18,28-08-18,28-04-19,0.375,-18,J. Balk,28-04-19,0.381944444,94,35,0,129,n,NA,post,6599.96,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-101,n,1,03-08-18,08-08-18,11-04-19,0.375,-10,T. Moeller,11-04-19,0.416666667,0,50,3,53,n,NA,post,NA,NA,only 5 legs
+Estonia,Estonia,Paernu,E18-Paernu-101,n,2,03-08-18,23-08-18,25-04-19,0.375,-10,L. Zander,25-04-19,0.40625,3,37,35,75,n,NA,post,NA,NA,only 5 legs
+Estonia,Estonia,Paernu,E18-Paernu-102,n,1,03-08-18,29-08-18,28-04-19,0.375,-18,M. Sheffer,28-04-19,0.375,6,0,0,6,n,NA,post,6622.37,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-107,n,1,03-08-18,22-08-18,22-04-19,0.625,-26,M. Sheffer,22-04-19,0.628472222,13,17,76,106,n,NA,post,6360.32,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-109,n,1,03-08-18,04-08-18,04-04-19,0.625,-10,T. Moeller,04-04-19,0.625,0,4,359,363,n,NA,post,6491.99,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-111,n,1,03-08-18,11-08-18,10-04-19,0.375,-32,J. Balk,10-04-19,0.399305556,NA,NA,NA,NA,y,NA,post,7386.62,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-111,n,2,03-08-18,01-09-18,01-05-19,0.375,-32,J. Balk,01-05-19,0.378472222,NA,NA,NA,NA,y,NA,post,7386.62,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-112,n,1,03-08-18,05-08-18,05-04-19,0.625,-32,M. Sheffer,05-04-19,0.625,NA,NA,NA,NA,y,not in freezer overnight,post,6149.6,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-112,n,2,03-08-18,19-08-18,19-04-19,0.625,-32,T. Moeller,19-04-19,0.625,NA,NA,NA,NA,y,NA,post,6149.6,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-114,n,1,03-08-18,04-08-18,04-04-19,0.375,-32,J. Balk,04-04-19,0.375,NA,NA,NA,NA,y,NA,post,7106.27,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-115,n,1,03-08-18,04-08-18,04-04-19,0.625,-10,M. Sheffer,04-04-19,0.625,0,45,402,447,n,NA,post,6157.01,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-119,n,1,03-08-18,05-08-18,05-04-19,0.375,-32,M. Sheffer,05-04-19,0.375,NA,NA,NA,NA,y,NA,post,6294.05,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-120,n,1,03-08-18,05-08-18,05-04-19,0.625,-18,J. Balk,05-04-19,0.625,2,49,395,446,n,NA,post,5979.43,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-120,n,2,03-08-18,16-08-18,16-04-19,0.625,-18,M. Sheffer,16-04-19,0.625,5,11,248,264,n,NA,post,5979.43,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-123,n,1,03-08-18,08-08-18,08-04-19,0.625,-10,J. Balk,08-04-19,0.625,1,36,214,251,n,NA,post,6889.84,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-123,n,2,03-08-18,23-08-18,23-04-19,0.625,-10,M. Sheffer,23-04-19,0.641666667,145,82,0,227,n,all in inner egg sac,post,6889.84,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-124,n,1,03-08-18,13-08-18,13-04-19,0.375,-18,T. Moeller,13-04-19,0.378472222,0,40,126,166,n,NA,post,6083.9,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-124,n,2,03-08-18,01-09-18,01-05-19,0.375,-10,L. Zander,01-05-19,0.375,89,46,0,135,n,all in inner egg sac,post,6083.9,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-125,n,1,03-08-18,13-08-18,13-04-19,0.375,-18,J. Balk,13-04-19,0.375,0,13,220,233,n,NA,post,7285.4,M. Sheffer,left
+France,Estonia,Paernu,E18-Paernu-125,n,2,03-08-18,30-08-18,30-04-19,0.375,-26,T. Moeller,30-04-19,0.375,3,27,108,138,n,NA,post,7285.4,M. Sheffer,left
+France,Estonia,Paernu,E18-Paernu-126,n,1,03-08-18,25-08-18,25-04-19,0.375,-10,M. Sheffer,25-04-19,0.378472222,21,8,104,133,n,NA,post,6499.64,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-127,n,1,03-08-18,11-08-18,11-04-19,0.625,-26,T. Moeller,11-04-19,0.604166667,0,35,201,236,n,NA,post,6442.33,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-127,n,2,03-08-18,25-08-18,25-04-19,0.375,-18,L. Zander,25-04-19,0.388888889,1,41,97,139,n,NA,post,6442.33,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-128,n,1,03-08-18,08-08-18,08-04-19,0.375,-32,M. Sheffer,08-04-19,0.3875,NA,NA,NA,NA,y,NA,post,6602.98,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-129,n,1,03-08-18,11-08-18,11-04-19,0.625,-26,J. Balk,11-04-19,0.604166667,1,73,118,192,n,NA,post,5932.98,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-129,n,2,03-08-18,26-08-18,26-04-19,0.625,-10,T. Moeller,26-04-19,0.625,12,15,103,130,n,NA,post,5932.98,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-131,n,1,03-08-18,19-08-18,19-04-19,0.375,-10,T. Moeller,19-04-19,0.375,61,112,9,182,n,all in inner egg sac,post,5704.5,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-131,n,2,03-08-18,03-09-18,03-05-19,0.625,-10,M. Sheffer,03-05-19,0.625,18,84,51,153,n,all in inner egg sac,post,5704.5,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-133,n,1,03-08-18,16-08-18,16-04-19,0.625,-32,L. Zander,16-04-19,0.625,NA,NA,NA,NA,y,NA,post,6601.86,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-134,n,1,03-08-18,29-08-18,28-04-19,0.625,-18,M. Sheffer,28-04-19,0.625,147,13,0,160,n,NA,post,6361.02,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-135,n,1,03-08-18,08-08-18,13-04-19,0.625,-18,T. Moeller,13-04-19,0.625,0,249,135,384,n,NA,post,6649.14,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-135,n,2,03-08-18,25-08-18,25-04-19,0.375,-10,L. Zander,25-04-19,0.375,0,3,179,182,n,NA,post,6649.14,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-136,n,1,03-08-18,20-08-18,20-04-19,0.375,-18,L. Zander,20-04-19,0.395833333,0,1,130,131,n,NA,post,5748.84,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-136,n,2,03-08-18,03-09-18,03-05-19,0.625,-10,J. Balk,03-05-19,0.625,0,7,112,119,n,NA,post,5748.84,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-139,n,1,03-08-18,18-08-18,18-04-19,0.375,-26,L. Zander,18-04-19,0.375,0,23,143,166,n,NA,post,6098.37,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-14,n,1,03-08-18,19-08-18,19-04-19,0.375,-18,M. Sheffer,19-04-19,0.375,0,1,78,79,n,NA,post,4664.36,M. Sheffer,left
+Estonia,Estonia,Paernu,E18-Paernu-14,n,2,03-08-18,22-08-18,22-04-19,0.375,-26,T. Moeller,22-04-19,0.378472222,8,55,26,89,n,NA,post,4664.36,M. Sheffer,left
+Estonia,Estonia,Paernu,E18-Paernu-144,n,1,03-08-18,16-08-18,16-04-19,0.375,-18,M. Sheffer,16-04-19,0.381944444,0,86,133,219,n,NA,post,6825.63,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-149,n,1,03-08-18,20-08-18,20-04-19,0.625,-18,M. Sheffer,20-04-19,0.625,81,0,0,81,n,NA,post,4438.41,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-158,n,1,03-08-18,04-08-18,04-04-19,0.375,-32,M. Sheffer,04-04-19,0.375,NA,NA,NA,NA,y,NA,post,6484.03,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-159,n,1,03-08-18,04-08-18,04-04-19,0.625,-10,L. Zander,04-04-19,0.625,0,75,258,333,n,NA,post,5146.76,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-159,n,2,03-08-18,16-08-18,16-04-19,0.625,-18,L. Zander,16-04-19,0.631944444,3,42,184,229,n,NA,post,5146.76,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-16,n,1,03-08-18,31-08-18,01-05-19,0.625,-10,L. Zander,01-05-19,0.625,99,2,0,101,n,all in inner egg sac,post,7172.45,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-161,n,1,03-08-18,05-08-18,05-04-19,0.375,-18,L. Zander,05-04-19,0.375,0,5,398,403,n,NA,post,7184.26,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-164,n,1,03-08-18,05-08-18,05-04-19,0.375,-32,J. Balk,05-04-19,0.375,NA,NA,NA,NA,y,NA,post,5706.81,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-19,n,1,03-08-18,07-08-18,07-04-19,0.375,-26,M. Sheffer,07-04-19,0.375,0,68,168,236,n,NA,post,6112.16,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-19,n,2,03-08-18,25-08-18,25-04-19,0.625,-18,T. Moeller,25-04-19,0.625,12,108,19,139,n,NA,post,6112.16,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-20,n,1,03-08-18,14-08-18,14-04-19,0.375,-32,L. Zander,14-04-19,0.385416667,NA,NA,NA,NA,y,NA,post,5071.99,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-20,n,2,03-08-18,01-09-18,01-05-19,0.375,-32,L. Zander,01-05-19,0.375,NA,NA,NA,NA,y,NA,post,5071.99,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-21,n,1,03-08-18,11-08-18,11-04-19,0.375,-26,J. Balk,11-04-19,0.375,0,5,144,149,n,NA,post,6304.75,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-21,n,2,03-08-18,28-08-18,28-04-19,0.375,-26,J. Balk,28-04-19,0.375,83,1,0,84,n,NA,post,6304.75,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-22,n,1,03-08-18,16-08-18,16-04-19,0.375,-10,J. Balk,16-04-19,0.375,0,45,151,196,n,NA,post,7025.8,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-25,n,1,03-08-18,08-08-18,09-04-19,0.625,-18,L. Zander,09-04-19,0.635416667,28,176,14,218,n,"was planned to be E18-Paernu-17, but it was already opened",post,6007.16,M. Sheffer,left
+France,Estonia,Paernu,E18-Paernu-26,n,1,03-08-18,07-08-18,07-04-19,0.375,-26,J. Balk,07-04-19,0.375,0,37,227,264,n,NA,post,7373.72,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-26,n,2,03-08-18,25-08-18,25-04-19,0.625,-10,L. Zander,25-04-19,0.625,0,25,88,113,n,NA,post,7373.72,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-28,n,1,03-08-18,14-08-18,14-04-19,0.625,-26,T. Moeller,14-04-19,0.625,0,10,165,175,n,NA,post,5919.89,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-28,n,2,03-08-18,31-08-18,01-05-19,0.375,-10,T. Moeller,01-05-19,0.375,57,62,3,122,n,all in inner egg sac,post,5919.89,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-29,n,1,03-08-18,07-08-18,07-04-19,0.625,-26,M. Sheffer,07-04-19,0.623611111,1,43,235,279,n,NA,post,6167.72,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-3,n,1,03-08-18,19-08-18,19-04-19,0.375,-32,L. Zander,19-04-19,0.388888889,NA,NA,NA,NA,y,NA,post,8205.89,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-34,n,1,03-08-18,07-08-18,07-04-19,0.625,-32,T. Moeller,07-04-19,0.628472222,NA,NA,NA,NA,y,NA,post,5830.03,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-34,n,2,03-08-18,18-08-18,18-04-19,0.625,-32,J. Balk,18-04-19,0.625,NA,NA,NA,NA,y,NA,post,5830.03,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-39,n,1,03-08-18,20-08-18,20-04-19,0.375,-18,T. Moeller,20-04-19,0.375,0,51,146,197,n,NA,post,5703.77,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-39,n,2,03-08-18,01-09-18,02-05-19,0.375,-18,L. Zander,02-05-19,0.381944444,0,89,35,124,n,"freezer confusion, maybe exclude",post,5703.77,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-40,n,1,03-08-18,14-08-18,14-04-19,0.375,-32,M. Sheffer,14-04-19,0.378472222,NA,NA,NA,NA,y,NA,post,4805.78,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-45,n,1,03-08-18,16-08-18,16-04-19,0.375,-18,L. Zander,16-04-19,0.395833333,0,26,145,171,n,NA,post,5479.41,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-47,n,1,03-08-18,22-08-18,22-04-19,0.625,-26,L. Zander,22-04-19,0.642361111,0,33,172,205,n,NA,post,6471.16,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-5,n,1,03-08-18,19-08-18,19-04-19,0.625,-10,L. Zander,19-04-19,0.625,0,4,179,183,n,NA,post,6026.42,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-5,n,2,03-08-18,01-09-18,05-05-19,0.625,-18,L. Zander,05-05-19,0.625,0,28,92,120,n,"freezer confusion, maybe exclude -- planned to open 2 May",post,6026.42,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-50,n,1,03-08-18,07-08-18,07-04-19,0.625,-32,T. Moeller,07-04-19,0.623611111,NA,NA,NA,NA,y,NA,post,5424.1,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-51,n,1,03-08-18,08-08-18,09-04-19,0.625,-18,M. Sheffer,09-04-19,0.627083333,0,63,293,356,n,"was planned to be E18-Paernu-63, but it was already opened",post,6787.69,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-53,n,1,03-08-18,07-08-18,07-04-19,0.625,-26,J. Balk,07-04-19,0.623611111,0,19,180,199,n,NA,post,5040.74,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-54,n,1,03-08-18,15-08-18,15-04-19,0.625,-10,L. Zander,15-04-19,0.624305556,0,2,234,236,n,NA,post,6962.18,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-54,n,2,03-08-18,31-08-18,01-05-19,0.625,-10,M. Sheffer,01-05-19,0.625,113,31,0,144,n,all in inner egg sac,post,6962.18,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-56,n,1,03-08-18,07-08-18,05-04-19,0.375,-10,T. Moeller,05-04-19,0.375,0,78,291,369,n,"was planned to be E18-Paernu-108, but it was already opened",post,6821.69,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-57,n,1,03-08-18,14-08-18,14-04-19,0.375,-26,T. Moeller,14-04-19,0.375,0,9,132,141,n,NA,post,5411.65,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-57,n,2,03-08-18,27-08-18,27-04-19,0.625,-26,M. Sheffer,27-04-19,0.625,79,0,0,79,n,NA,post,5411.65,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-6,n,1,03-08-18,18-08-18,18-04-19,0.375,-26,M. Sheffer,18-04-19,0.388888889,0,57,95,152,n,NA,post,5529.23,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-60,n,1,03-08-18,08-08-18,08-04-19,0.625,-32,L. Zander,08-04-19,0.625,NA,NA,NA,NA,y,NA,post,6657.33,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-60,n,2,03-08-18,27-08-18,27-04-19,0.625,-32,L. Zander,27-04-19,0.625,NA,NA,NA,NA,y,NA,post,6657.33,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-62,n,1,03-08-18,16-08-18,16-04-19,0.375,-32,J. Balk,16-04-19,0.395833333,NA,NA,NA,NA,y,NA,post,7099.3,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-62,n,2,03-08-18,01-09-18,01-05-19,0.375,-32,T. Moeller,01-05-19,0.378472222,NA,NA,NA,NA,y,NA,post,7099.3,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-64,n,1,03-08-18,11-08-18,11-04-19,0.625,-26,T. Moeller,11-04-19,0.604166667,0,11,177,188,n,NA,post,6376.22,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-64,n,2,03-08-18,26-08-18,26-04-19,0.375,-10,T. Moeller,26-04-19,0.375,25,7,111,143,n,NA,post,6376.22,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-65,n,1,03-08-18,07-08-18,07-04-19,0.375,-32,T. Moeller,07-04-19,0.375,NA,NA,NA,NA,y,NA,post,5814.6,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-68,n,1,03-08-18,07-08-18,11-04-19,0.375,-10,M. Sheffer,11-04-19,0.375,49,180,119,348,n,NA,post,6334.22,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-7,n,1,03-08-18,09-08-18,09-04-19,0.625,-32,J. Balk,09-04-19,0.625694444,NA,NA,NA,NA,y,NA,post,6587.5,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-72,n,1,03-08-18,01-09-18,01-05-19,0.625,-10,L. Zander,01-05-19,0.625,55,0,0,55,n,all in inner egg sac,post,5497.54,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-74,n,1,03-08-18,16-08-18,16-04-19,0.375,-10,T. Moeller,16-04-19,0.375,0,1,187,188,n,NA,post,5249.2,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-74,n,2,03-08-18,03-09-18,03-05-19,0.375,-10,T. Moeller,03-05-19,0.375,0,1,72,73,n,NA,post,5249.2,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-78,n,1,03-08-18,07-08-18,07-04-19,0.375,-26,T. Moeller,07-04-19,0.385416667,0,29,111,140,n,NA,post,5187.3,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-78,n,2,03-08-18,20-08-18,20-04-19,0.625,-18,L. Zander,20-04-19,0.625,0,3,68,71,n,NA,post,5187.3,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-79,n,1,03-08-18,22-08-18,22-04-19,0.625,-26,M. Sheffer,22-04-19,0.645833333,2,37,77,116,n,NA,post,5474.07,M. Sheffer,left
+France,Estonia,Paernu,E18-Paernu-80,n,1,03-08-18,19-08-18,19-04-19,0.375,-10,L. Zander,19-04-19,0.375,0,15,150,165,n,NA,post,6386.62,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-80,n,2,03-08-18,03-09-18,03-05-19,0.375,-10,M. Sheffer,03-05-19,0.375,0,0,90,90,n,NA,post,6386.62,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-81,n,1,03-08-18,08-08-18,09-04-19,0.625,-18,T. Moeller,09-04-19,0.625694444,0,20,291,311,n,"was planned to be E18-Paernu-38, but it was already opened",post,7042.78,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-83,n,1,03-08-18,20-08-18,20-04-19,0.375,-18,L. Zander,20-04-19,0.375,0,17,204,221,n,NA,post,7486.1,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-84,n,1,03-08-18,08-08-18,08-04-19,0.375,-10,M. Sheffer,08-04-19,0.375,45,2,1,48,n,NA,post,4323.82,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-85,n,1,03-08-18,08-08-18,08-04-19,0.625,-10,M. Sheffer,08-04-19,0.625,2,71,177,250,n,NA,post,5526.04,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-85,n,2,03-08-18,22-08-18,22-04-19,0.375,-26,M. Sheffer,22-04-19,0.379166667,0,5,140,145,n,NA,post,5526.04,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-86,n,1,03-08-18,18-08-18,18-04-19,0.625,-26,M. Sheffer,18-04-19,0.625,0,4,151,155,n,NA,post,6365.85,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-87,n,1,03-08-18,09-08-18,09-04-19,0.625,-18,L. Zander,09-04-19,0.625694444,0,0,164,164,n,NA,post,5936.35,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-87,n,2,03-08-18,23-08-18,23-04-19,0.625,-18,T. Moeller,23-04-19,0.625,55,6,95,156,n,NA,post,5936.35,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-89,n,1,03-08-18,09-08-18,09-04-19,0.375,-18,J. Balk,09-04-19,0.375,0,10,107,117,n,NA,post,8310.9,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-89,n,2,03-08-18,23-08-18,23-04-19,0.375,-18,T. Moeller,23-04-19,0.375,126,14,0,140,n,NA,post,8310.9,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-9,n,1,03-08-18,16-08-18,16-04-19,0.375,-32,T. Moeller,16-04-19,0.395833333,NA,NA,NA,NA,y,NA,post,5138.51,M. Sheffer,left
+France,Estonia,Paernu,E18-Paernu-91,n,1,03-08-18,05-08-18,04-04-19,0.375,-32,L. Zander,04-04-19,0.375,NA,NA,NA,NA,y,NA,post,6928.47,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-91,n,2,03-08-18,22-08-18,22-04-19,0.375,-32,L. Zander,22-04-19,0.385416667,NA,NA,NA,NA,y,NA,post,6928.47,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-92,n,1,03-08-18,14-08-18,14-04-19,0.375,-26,L. Zander,14-04-19,0.375,74,0,0,74,n,NA,post,4529.52,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-93,n,1,03-08-18,14-08-18,14-04-19,0.625,-26,L. Zander,14-04-19,0.625,0,52,41,93,n,NA,post,5146.14,M. Sheffer,NA
+Estonia,Estonia,Paernu,E18-Paernu-93,n,2,03-08-18,30-08-18,30-04-19,0.375,-26,J. Balk,30-04-19,0.375,0,0,0,0,n,NA,post,5146.14,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-95,n,1,03-08-18,16-08-18,16-04-19,0.625,-32,T. Moeller,16-04-19,0.625,NA,NA,NA,NA,y,NA,post,5612.86,M. Sheffer,NA
+France,Estonia,Paernu,E18-Paernu-95,n,2,03-08-18,02-09-18,05-05-19,0.625,-32,L. Zander,05-05-19,0.6375,NA,NA,NA,NA,y,"freezer confusion, maybe exclude -- planned to open 2 May",post,5612.86,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalO-1,n,1,07-08-18,30-08-18,30-04-19,0.625,-26,M. Sheffer,30-04-19,0.625,39,6,3,48,n,all in inner egg sac,post,5553.87,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalO-10,n,1,07-08-18,30-08-18,30-04-19,0.375,-26,L. Zander,30-04-19,0.375,40,113,34,187,n,NA,post,6151.05,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalO-12,n,1,07-08-18,02-09-18,05-05-19,0.625,-18,M. Sheffer,05-05-19,0.625,2,144,1,147,n,"freezer confusion, maybe exclude -- planned to open 2 May, all in inner egg sac",post,12100.09,L. Zander,one leg in vial
+Estonia,France,Mireval,SF18-MirevalO-12,n,2,07-08-18,18-09-18,18-05-19,0.375,-18,M. Sheffer,18-05-19,0.381944444,87,0,0,87,n,all in inner egg sac,post,12100.09,L. Zander,one leg in vial
+Estonia,France,Mireval,SF18-MirevalO-17,n,1,07-08-18,07-09-18,07-05-19,0.625,-10,J. Balk,07-05-19,0.625,1,52,125,178,n,NA,post,7410.05,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalO-21,n,1,07-08-18,28-08-18,28-04-19,0.375,-18,M. Sheffer,28-04-19,0.381944444,2,0,227,229,n,NA,post,8835.88,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalO-21,n,2,07-08-18,18-09-18,18-05-19,0.375,-18,M. Sheffer,18-05-19,0.381944444,23,154,0,177,n,all in inner egg sac,post,8835.88,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalO-22,n,1,07-08-18,05-09-18,04-05-19,0.375,-26,M. Sheffer,04-05-19,0.380555556,3,34,137,174,n,NA,post,6573.72,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalO-24,n,1,07-08-18,03-09-18,02-05-19,0.375,-32,L. Zander,02-05-19,0.375,0,2,147,149,n,"LT -32 but still count, freezer confusion, maybe exclude",post,7914.49,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalO-26,n,1,07-08-18,06-09-18,06-05-19,0.375,-18,M. Sheffer,06-05-19,0.381944444,9,102,24,135,n,all in inner egg sac,post,7495.34,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalO-27,n,1,07-08-18,22-08-18,22-04-19,0.375,-26,L. Zander,22-04-19,0.375,41,25,3,69,n,1 egg with legs,post,11448.17,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalO-27,n,2,07-08-18,06-09-18,06-05-19,0.375,-10,L. Zander,06-05-19,0.375,63,61,15,139,n,all in inner egg sac,post,11448.17,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalO-31,n,1,07-08-18,27-08-18,27-04-19,0.375,-26,L. Zander,27-04-19,0.375,33,33,20,86,n,NA,post,6833.25,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalO-31,n,2,07-08-18,13-09-18,12-05-19,0.625,-26,L. Zander,12-05-19,0.628472222,73,25,1,99,n,"all ""blobs""",post,6833.25,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalO-32,n,1,07-08-18,16-08-18,16-04-19,0.625,-18,J. Balk,16-04-19,0.625,0,13,93,106,n,NA,post,6464.3,M. Sheffer,left
+France,France,Mireval,SF18-MirevalO-33,n,1,07-08-18,01-09-18,01-05-19,0.375,-32,J. Balk,01-05-19,0.375,NA,NA,NA,NA,y,NA,post,8740.98,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalO-34,n,1,07-08-18,08-09-18,08-05-19,0.375,-10,L. Zander,08-05-19,0.375,69,21,53,143,n,NA,post,7611.74,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalO-36,n,1,07-08-18,10-09-18,09-05-19,0.625,-18,J. Balk,09-05-19,0.625,63,50,61,174,n,NA,post,7707.5,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalO-37,n,1,07-08-18,10-09-18,09-05-19,0.625,-18,L. Zander,09-05-19,0.625,55,0,0,55,n,NA,post,7780.4,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalO-38,n,1,07-08-18,06-09-18,06-05-19,0.625,-10,L. Zander,06-05-19,0.625,0,22,142,164,n,NA,post,6152.46,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalO-40,n,1,07-08-18,23-08-18,23-04-19,0.625,-10,M. Sheffer,23-04-19,0.625,0,97,102,199,n,NA,post,11912.95,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalO-40,n,2,07-08-18,11-09-18,12-05-19,0.625,-26,M. Sheffer,12-05-19,0.625,4,160,0,164,n,"all ""blobs""",post,11912.95,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalO-42,n,1,07-08-18,20-08-18,20-04-19,0.375,-18,M. Sheffer,20-04-19,0.385416667,0,139,89,228,n,NA,post,7441.31,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalO-45,n,1,07-08-18,20-08-18,20-04-19,0.625,-18,L. Zander,20-04-19,0.633333333,0,4,297,301,n,NA,post,7945.49,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalO-45,n,2,07-08-18,08-09-18,08-05-19,0.375,-10,J. Balk,08-05-19,0.375,0,30,132,162,n,NA,post,7945.49,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalO-47,n,1,07-08-18,12-09-18,12-05-19,0.375,-26,L. Zander,12-05-19,0.375,89,87,0,176,n,NA,post,7229.51,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-11,n,1,07-08-18,25-08-18,25-04-19,0.625,-18,M. Sheffer,25-04-19,0.625,0,76,63,139,n,NA,post,7854.48,M. Sheffer,left
+Estonia,France,Mireval,SF18-MirevalW-11,n,2,07-08-18,19-09-18,19-05-19,0.625,-18,M. Sheffer,19-05-19,0.625,7,0,0,7,n,NA,post,7854.48,M. Sheffer,left
+Estonia,France,Mireval,SF18-MirevalW-12,n,1,07-08-18,10-09-18,09-05-19,0.375,-32,J. Balk,09-05-19,0.375,NA,NA,NA,NA,y,NA,post,8246.89,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-13,n,1,07-08-18,13-08-18,13-04-19,0.625,-32,J. Balk,13-04-19,0.625,3,17,188,208,n,NA,post,6883.2,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-13,n,2,07-08-18,03-09-18,03-05-19,0.625,-32,L. Zander,03-05-19,0.625,NA,NA,NA,NA,y,NA,post,6883.2,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-15,n,1,07-08-18,01-09-18,01-05-19,0.625,-10,J. Balk,01-05-19,0.625,6,36,114,156,n,deformed,post,8192.29,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-17,n,1,07-08-18,20-08-18,20-04-19,0.625,-32,M. Sheffer,20-04-19,0.633333333,NA,NA,NA,NA,y,NA,post,NA,NA,one leg in vial
+Estonia,France,Mireval,SF18-MirevalW-17,n,2,07-08-18,03-09-18,03-05-19,0.625,-32,L. Zander,03-05-19,0.625,NA,NA,NA,NA,y,NA,post,NA,NA,one leg in vial
+France,France,Mireval,SF18-MirevalW-18,n,1,07-08-18,15-09-18,16-05-19,0.625,-10,M. Sheffer,16-05-19,0.625,74,0,0,74,n,NA,post,7413.95,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-1B,n,1,07-08-18,11-08-18,11-04-19,0.625,-26,L. Zander,11-04-19,0.625,0,38,358,396,n,NA,post,7751.35,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-200,n,1,07-08-18,26-08-18,26-04-19,0.625,-10,L. Zander,26-04-19,0.625,0,8,185,193,n,NA,post,8088.85,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-30,n,1,07-08-18,04-09-18,04-05-19,0.625,-26,T. Moeller,04-05-19,0.625,0,4,168,172,n,NA,post,7175.23,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-32,n,1,07-08-18,14-08-18,14-04-19,0.625,-32,L. Zander,14-04-19,0.631944444,NA,NA,NA,NA,y,NA,post,7069.49,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-33,n,1,07-08-18,28-08-18,28-04-19,0.625,-32,J. Balk,28-04-19,0.625,NA,NA,NA,NA,y,NA,post,6945.75,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-33,n,2,07-08-18,09-09-18,09-05-19,0.625,-32,L. Zander,09-05-19,0.625,NA,NA,NA,NA,y,NA,post,6945.75,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-34,n,1,07-08-18,18-09-18,18-05-19,0.625,-18,J. Balk,18-05-19,0.625,98,0,0,98,n,all in inner egg sac,post,6932.07,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-35,n,1,07-08-18,21-08-18,22-04-19,0.625,-26,L. Zander,22-04-19,0.625,0,44,130,174,n,NA,post,7434.19,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-36,n,1,07-08-18,16-08-18,16-04-19,0.375,-18,L. Zander,16-04-19,0.375,0,155,156,311,n,NA,post,8263.45,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-39,n,1,07-08-18,13-08-18,13-04-19,0.375,-18,M. Sheffer,13-04-19,0.378472222,0,1,392,393,n,NA,post,NA,NA,one leg in vial
+France,France,Mireval,SF18-MirevalW-39,n,2,07-08-18,08-09-18,08-05-19,0.375,-18,L. Zander,08-05-19,0.388888889,0,2,150,152,n,NA,post,NA,NA,one leg in vial
+France,France,Mireval,SF18-MirevalW-4,n,1,07-08-18,04-09-18,04-05-19,0.375,-26,T. Moeller,04-05-19,0.375,2,9,196,207,n,NA,post,7216.64,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-47,n,1,07-08-18,09-08-18,09-04-19,0.375,-18,L. Zander,09-04-19,0.375,1,12,524,537,n,NA,post,8478.38,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-48,L,1,07-08-18,19-08-18,19-04-19,0.625,-10,M. Sheffer,19-04-19,0.625,0,157,94,251,n,NA,post,8150.94,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-48,n,2,07-08-18,10-09-18,09-05-19,0.375,-18,L. Zander,09-05-19,0.375,1,99,4,104,n,NA,post,8150.94,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-5,n,1,07-08-18,07-09-18,07-05-19,0.625,-32,M. Sheffer,07-05-19,0.625,NA,NA,NA,NA,y,NA,post,7529.18,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-51,n,1,07-08-18,13-08-18,13-04-19,0.625,-32,L. Zander,13-04-19,0.638888889,NA,NA,NA,NA,y,NA,post,7201.79,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-51,n,2,07-08-18,03-09-18,03-05-19,0.625,-32,L. Zander,03-05-19,0.625,NA,NA,NA,NA,y,NA,post,7201.79,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-53,n,1,07-08-18,08-09-18,08-05-19,0.375,-10,M. Sheffer,08-05-19,0.383333333,25,70,15,110,n,all in inner egg sac,post,8227.59,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-56,n,1,07-08-18,28-08-18,28-04-19,0.625,-18,J. Balk,28-04-19,0.625,2,23,129,154,n,NA,post,8025.21,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-58,n,1,07-08-18,04-09-18,04-05-19,0.625,-26,M. Sheffer,04-05-19,0.625,0,17,223,240,n,NA,post,8698.13,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-60,n,1,07-08-18,07-09-18,07-05-19,0.375,-26,L. Zander,07-05-19,0.375,0,13,137,150,n,NA,post,7493.91,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-62,n,1,07-08-18,15-08-18,15-04-19,0.375,-10,M. Sheffer,15-04-19,0.378472222,0,5,611,616,n,NA,post,8762.48,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-62,n,2,07-08-18,10-09-18,09-05-19,0.375,-18,L. Zander,09-05-19,0.378472222,0,1,198,199,n,NA,post,8762.48,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-63,n,1,07-08-18,11-08-18,10-04-19,0.375,-32,J. Balk,10-04-19,0.375,NA,NA,NA,NA,y,NA,post,7099.94,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-64,n,1,07-08-18,11-08-18,11-04-19,0.375,-26,J. Balk,11-04-19,0.385416667,0,31,339,370,n,NA,post,6845.85,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-64,n,2,07-08-18,31-08-18,01-05-19,0.375,-32,M. Sheffer,01-05-19,0.377083333,NA,NA,NA,NA,y,all in inner egg sac,post,6845.85,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-66,n,1,07-08-18,11-08-18,11-04-19,0.625,-26,L. Zander,11-04-19,0.604166667,0,12,678,690,n,NA,post,9063.45,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-66,n,2,07-08-18,19-09-18,19-05-19,0.375,-26,M. Sheffer,19-05-19,0.385416667,4,2,78,84,n,NA,post,9063.45,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-67,n,1,07-08-18,03-09-18,03-05-19,0.375,-10,L. Zander,03-05-19,0.375,0,48,190,238,n,NA,post,7314.6,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-68,n,1,07-08-18,11-08-18,10-04-19,0.375,-32,L. Zander,10-04-19,0.375,NA,NA,NA,NA,y,NA,post,8785.71,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-69,n,1,07-08-18,13-08-18,13-04-19,0.625,-32,M. Sheffer,13-04-19,0.628472222,0,0,224,224,n,NA,post,6980.87,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-69,n,2,07-08-18,08-09-18,08-05-19,0.625,-32,M. Sheffer,08-05-19,0.625,NA,NA,NA,NA,y,NA,post,6980.87,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-7,n,1,07-08-18,08-08-18,08-04-19,0.375,-10,J. Balk,08-04-19,0.375,0,78,452,530,n,NA,post,8061.48,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-70,n,1,07-08-18,03-09-18,03-05-19,0.375,-32,J. Balk,03-05-19,0.375,NA,NA,NA,NA,y,NA,post,8736.32,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-72,n,1,07-08-18,19-08-18,19-04-19,0.625,-32,T. Moeller,19-04-19,0.627083333,NA,NA,NA,NA,y,NA,post,5876.37,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-72,n,2,07-08-18,04-09-18,04-05-19,0.625,-32,J. Balk,04-05-19,0.625,NA,NA,NA,NA,y,NA,post,5876.37,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-73,n,1,07-08-18,30-08-18,30-04-19,0.625,-10,T. Moeller,30-04-19,0.625,59,60,63,182,n,NA,post,7369.15,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-77,n,1,07-08-18,21-08-18,22-04-19,0.625,-26,T. Moeller,22-04-19,0.625,7,3,148,158,n,NA,post,7757.69,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-79,n,1,07-08-18,03-09-18,03-05-19,0.625,-10,T. Moeller,03-05-19,0.625,48,14,2,64,n,NA,post,8706.57,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-8,n,1,07-08-18,02-09-18,02-05-19,0.375,-18,J. Balk,02-05-19,0.375,22,21,91,134,n,"freezer confusion, maybe exclude",post,NA,NA,one leg in vial
+Estonia,France,Mireval,SF18-MirevalW-8,n,2,07-08-18,18-09-18,18-05-19,0.375,-18,M. Sheffer,18-05-19,0.378472222,96,0,0,96,n,all in inner egg sac,post,NA,NA,one leg in vial
+France,France,Mireval,SF18-MirevalW-80,n,1,07-08-18,08-09-18,08-05-19,0.625,-10,J. Balk,08-05-19,0.625,34,107,6,147,n,NA,post,7226.71,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-82,n,1,07-08-18,13-08-18,13-04-19,0.375,-18,L. Zander,13-04-19,0.375,0,153,192,345,n,NA,post,7983.33,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-82,n,2,07-08-18,01-09-18,01-05-19,0.625,-10,T. Moeller,01-05-19,0.625,6,4,110,120,n,all in inner egg sac,post,7983.33,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-85,n,1,07-08-18,11-08-18,11-04-19,0.375,-10,L. Zander,11-04-19,0.395833333,0,169,546,715,n,NA,post,8635.55,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-85,n,2,07-08-18,16-09-18,16-05-19,0.375,-10,M. Sheffer,16-05-19,0.383333333,103,0,0,103,n,NA,post,8635.55,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-86,n,1,07-08-18,11-08-18,10-04-19,0.375,-32,M. Sheffer,10-04-19,0.381944444,NA,NA,NA,NA,y,NA,post,8283.77,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-86,n,2,07-08-18,06-09-18,06-05-19,0.375,-32,L. Zander,06-05-19,0.385416667,NA,NA,NA,NA,y,NA,post,8283.77,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-88,n,1,07-08-18,11-08-18,11-04-19,0.375,-32,L. Zander,11-04-19,0.375,NA,NA,NA,NA,y,some spiderlings had already emerged,post,8401.42,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-88,n,2,07-08-18,10-09-18,12-05-19,0.375,-32,M. Sheffer,12-05-19,0.375,NA,NA,NA,NA,y,NA,post,8401.42,M. Sheffer,NA
+France,France,Mireval,SF18-MirevalW-9,n,1,07-08-18,17-08-18,18-04-19,0.375,-26,L. Zander,18-04-19,0.395833333,0,3,271,274,n,NA,post,8358.03,M. Sheffer,NA
+Estonia,France,Mireval,SF18-MirevalW-90,n,1,07-08-18,13-08-18,13-04-19,0.625,-32,M. Sheffer,13-04-19,0.647916667,NA,NA,NA,NA,y,NA,post,8248.68,M. Sheffer,NA
+Estonia,France,Perry,SF18-Perry-1,n,1,07-08-18,25-08-18,25-04-19,0.375,-18,M. Sheffer,25-04-19,0.399305556,3,81,141,225,n,NA,post,9158.52,M. Sheffer,left
+France,France,Perry,SF18-Perry-10,n,1,07-08-18,02-09-18,05-05-19,0.625,-18,M. Sheffer,05-05-19,0.628472222,0,0,215,215,n,"freezer confusion, maybe exclude -- planned to open 2 May",post,8518.94,M. Sheffer,NA
+France,France,Perry,SF18-Perry-11,n,1,07-08-18,26-08-18,26-04-19,0.375,-10,L. Zander,26-04-19,0.375,45,105,51,201,n,all in inner egg sac,post,8171.13,M. Sheffer,NA
+France,France,Perry,SF18-Perry-12,n,1,07-08-18,01-09-18,02-05-19,0.375,-18,M. Sheffer,02-05-19,0.381944444,3,1,154,158,n,"freezer confusion, maybe exclude",post,7252.02,M. Sheffer,NA
+France,France,Perry,SF18-Perry-12,n,2,07-08-18,18-09-18,18-05-19,0.375,-18,J. Balk,18-05-19,0.378472222,17,47,43,107,n,NA,post,7252.02,M. Sheffer,NA
+France,France,Perry,SF18-Perry-13,n,1,07-08-18,10-09-18,09-05-19,0.625,-32,L. Zander,09-05-19,0.625,NA,NA,NA,NA,y,NA,post,9415.44,M. Sheffer,NA
+Estonia,France,Perry,SF18-Perry-14,n,1,07-08-18,14-08-18,14-04-19,0.625,-26,M. Sheffer,14-04-19,0.625,0,285,129,414,n,NA,post,8693.24,M. Sheffer,NA
+France,France,Perry,SF18-Perry-2,n,1,07-08-18,06-09-18,06-05-19,0.375,-32,J. Balk,06-05-19,0.375,NA,NA,NA,NA,y,NA,post,7890.47,M. Sheffer,NA
+France,France,Perry,SF18-Perry-5,n,1,07-08-18,14-08-18,14-04-19,0.625,-26,J. Balk,14-04-19,0.625,42,201,157,400,n,all in inner egg sac,post,8745.16,M. Sheffer,NA
+France,France,Perry,SF18-Perry-5,n,2,07-08-18,08-09-18,08-05-19,0.625,-10,L. Zander,08-05-19,0.625,7,4,126,137,n,NA,post,8745.16,M. Sheffer,NA
+France,France,Perry,SF18-Perry-6,n,1,07-08-18,12-09-18,12-05-19,0.625,-26,L. Zander,12-05-19,0.625,197,0,0,197,n,NA,post,8540.25,M. Sheffer,NA
+Estonia,France,Perry,SF18-Perry-8,n,1,07-08-18,12-09-18,12-05-19,0.375,-26,L. Zander,12-05-19,0.375,105,0,0,105,n,15 eggs with legs,post,8450.97,M. Sheffer,NA

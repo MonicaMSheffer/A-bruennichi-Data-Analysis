@@ -1,0 +1,20 @@
+BioVar,Description,varDescrip
+BIO_1, Annual Mean Temperature,annMeanTemp
+BIO_2, Mean Diurnal Range (Mean of monthly (max temp - min temp)),meanDiurnRange
+BIO_3, Isothermality (BIO2/BIO7) (×100),isothermality
+BIO_4, Temperature Seasonality (standard deviation ×100),tempSeasonality
+BIO_5, Max Temperature of Warmest Month,maxTempWarmestMonth
+BIO_6, Min Temperature of Coldest Month,minTempColdestMonth
+BIO_7, Temperature Annual Range (BIO5-BIO6),tempAnnRange
+BIO_8, Mean Temperature of Wettest Quarter,meanTempWettestQuarter
+BIO_9, Mean Temperature of Driest Quarter,meanTempDriestQuarter
+BIO_10, Mean Temperature of Warmest Quarter,meanTempWarmestQuarter
+BIO_11, Mean Temperature of Coldest Quarter,meanTempColdestQuarter
+BIO_12, Annual Precipitation,annPrecip
+BIO_13, Precipitation of Wettest Month,precipWettestMonth
+BIO_14, Precipitation of Driest Month,precipDriestMonth
+BIO_15, Precipitation Seasonality (Coefficient of Variation),precipSeasonality
+BIO_16, Precipitation of Wettest Quarter,precipWettestQuarter
+BIO_17, Precipitation of Driest Quarter,precipDriestQuarter
+BIO_18, Precipitation of Warmest Quarter,precipWarmestQuarter
+BIO_19, Precipitation of Coldest Quarter,precipColdestQuarter
